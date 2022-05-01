@@ -1,0 +1,7 @@
+[data-md-color-scheme="south-campus"] {
+  --md-primary-fg-color: hsl(222, 68%, 22%);
+  --md-accent-fg-color: hsl(194, 100%, 46%);
+  --md-accent-bg-color: var(--md-primary-fg-color);
+  --md-typeset-color: var(--md-default-fg-color);  
+  --md-typeset-a-color: var(--md-primary-fg-color);
+}

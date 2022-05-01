@@ -1,0 +1,118 @@
+site_name: CMPE Documentation
+site_url: https://bouncmpedocs.netlify.app/
+site_description: "Documentation for the Department of Computer Engineering at Boğaziçi University"
+site_author: bouncmpe
+
+copyright: Copyright &copy; 1982 - 2022 Department of Computer Engineering
+
+theme:
+  name: material
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  language: "en"
+  font:
+    text: Inter
+  palette:
+    scheme: south-campus
+  features:
+    - navigation.instant
+    - navigation.tracking
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.sections
+    # - navigation.expand
+    - navigation.indexes
+    - navigation.top
+
+plugins:
+  - search:
+      lang:
+        - en
+  - minify:
+      minify_html: true
+
+repo_name: bouncmpe/docs
+repo_url: https://github.com/bouncmpe/docs
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - meta
+  - tables
+  - toc:
+      permalink: "#"
+      slugify: !!python/name:pymdownx.slugs.uslugify
+      toc_depth: 3
+  - footnotes
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/Bogazici_CmpE
+    - icon: fontawesome/brands/github
+      link: https://github.com/bouncmpe
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+nav:
+  - Getting Started:
+      - getting-started/index.md
+
+  - Undergraduate Program:
+      - undergraduate/index.md
+      - Incoming Students: undergraduate/incoming-students.md
+      - Semester Registration: undergraduate/registration.md
+      - Course Selection: undergraduate/courses.md
+      - Graduation Requirements: undergraduate/graduation.md
+      - In-Service Training:
+          - undergraduate/training/index.md
+          - Overview: undergraduate/training/index.md
+          - Rules and Regulations: undergraduate/training/bylaws.md
+          - Frequently Asked Questions: undergraduate/training/faq.md
+      - Senior Projects:
+          - undergraduate/senior-projects/index.md
+          - Overview: undergraduate/senior-projects/index.md
+          - Rules and Regulations: undergraduate/senior-projects/regulations.md
+      - Double Major Program: undergraduate/double-major.md
+      - Minor Degree Program: undergraduate/minor-degree.md
+      - Student Exchange Programs: undergraduate/student-exchange.md
+
+  - Masters Program:
+      - masters/index.md
+      - Application:
+          - masters/application/index.md
+          - Overview: masters/application/index.md
+          - Interview: masters/application/interview.md
+          - Evaluation: masters/application/evaluation.md
+      - Admitted Students: masters/admitted.md
+      - Semester Registration: masters/registration.md
+      - Course Selection: masters/courses.md
+
+  - Doctoral Program:
+      - doctoral/index.md
+      - Application:
+          - doctoral/application/index.md
+          - Overview: doctoral/application/index.md
+          - Interview: doctoral/application/interview.md
+          - Evaluation: doctoral/application/evaluation.md
+      - Admitted Students: doctoral/admitted.md
+      - Semester Registration: doctoral/registration.md
+      - Course Selection: doctoral/courses.md
+
+  - Resources:
+      - Tutorials:
+          - tutorials/index.md
+          - Fantastic Beasts and Where to Find Them: tutorials/index.md
+
+  - About:
+      - Student Petitions: about/student-petitions.md
+      - Procedure against Cheating: about/cheating-behavior.md
+      - Publication Copyright Policies: about/copyright-policies.md
