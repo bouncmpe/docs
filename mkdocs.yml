@@ -5,6 +5,9 @@ site_author: bouncmpe
 
 copyright: Copyright &copy; 1982 - 2022 Department of Computer Engineering
 
+docs_dir: content
+edit_uri: blob/main/content/
+
 theme:
   name: material
   logo: assets/images/logo.png
