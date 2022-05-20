@@ -1,7 +1,6 @@
 # Minor Degree Programs
 
-Minor degrees enable high-achieving students registered to undergraduate degree
-programs to become knowledgeable in another focus area.
+Minor degrees enable high-achieving students registered to undergraduate degree programs to become knowledgeable in another focus area.
 
 Minor Degree applications must be made on the dates specified in the academic calendar.
 
