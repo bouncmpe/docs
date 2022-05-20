@@ -6,6 +6,8 @@ site_author: bouncmpe
 copyright: Copyright &copy; 1982 - 2022 Department of Computer Engineering
 
 docs_dir: content
+repo_name: bouncmpe/docs
+repo_url: https://github.com/bouncmpe/docs
 edit_uri: blob/main/content/
 
 theme:
@@ -33,9 +35,6 @@ plugins:
         - en
   - minify:
       minify_html: true
-
-repo_name: bouncmpe/docs
-repo_url: https://github.com/bouncmpe/docs
 
 markdown_extensions:
   - abbr
