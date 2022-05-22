@@ -69,8 +69,7 @@ nav:
       - undergraduate/index.md
       - Incoming Students: undergraduate/incoming-students.md
       - Semester Registration: undergraduate/registration.md
-      - Course Selection: undergraduate/courses.md
-      - Graduation Requirements: undergraduate/graduation.md
+      - Courses: undergraduate/courses.md
       - In-Service Training:
           - undergraduate/training/index.md
           - Overview: undergraduate/training/index.md
@@ -80,6 +79,7 @@ nav:
           - undergraduate/senior-projects/index.md
           - Overview: undergraduate/senior-projects/index.md
           - Rules and Regulations: undergraduate/senior-projects/regulations.md
+      - Graduation Requirements: undergraduate/graduation.md
       - Double Major Program: undergraduate/double-major.md
       - Minor Degree Program: undergraduate/minor-degree.md
       - Student Exchange Programs: undergraduate/student-exchange.md
@@ -93,7 +93,7 @@ nav:
           - Evaluation: masters/application/evaluation.md
       - Admitted Students: masters/admitted.md
       - Semester Registration: masters/registration.md
-      - Course Selection: masters/courses.md
+      - Courses: masters/courses.md
       - Thesis: masters/thesis.md
 
   - Doctoral Program:
@@ -105,7 +105,7 @@ nav:
           - Evaluation: doctoral/application/evaluation.md
       - Admitted Students: doctoral/admitted.md
       - Semester Registration: doctoral/registration.md
-      - Course Selection: doctoral/courses.md
+      - Courses: doctoral/courses.md
       - Qualification: doctoral/qualification.md
       - Thesis: doctoral/thesis.md
 
