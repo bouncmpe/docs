@@ -22,7 +22,7 @@ Please refer to the information provided by the university [here](http://ogrenci
 
 ### Elective courses 
 
-Pick one course form the list:
+First pick one course from the list below:
 
 | Course Code | Course Title | Course Credit | Notes |
 | ----------- | ------------------------------------ | - | ---- |
@@ -31,6 +31,13 @@ Pick one course form the list:
 | CMPE 321    | Introduction to Database Systems     | 4 |      |
 | CMPE 322    | Operating Systems                    | 4 |      |
 | CMPE 344    | Computer Organization                | 4 |      |
+
+And pick another course form the list below:
+
+| Course Code | Course Title | Course Credit | Notes |
+| ----------- | --------------------------------- | - | - |
+| CMPE 220    | Discrete Computational Structures | 3 |   |
+| CMPE 4XX    | Any CMPE 4XX course               | 3 |   |
 
 [^1]: Select one of them (CMPE 160 or CMPE 210)
 [^2]: CMPE 220 is the prerequisite for CMPE 350
