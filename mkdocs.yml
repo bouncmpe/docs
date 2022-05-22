@@ -97,7 +97,8 @@ nav:
       - Admitted Students: masters/admitted.md
       - Semester Registration: masters/registration.md
       - Course Selection: masters/courses.md
-
+      - Thesis: masters/thesis.md
+      
   - Doctoral Program:
       - doctoral/index.md
       - Application:
@@ -108,6 +109,8 @@ nav:
       - Admitted Students: doctoral/admitted.md
       - Semester Registration: doctoral/registration.md
       - Course Selection: doctoral/courses.md
+      - Qualification: doctoral/qualification.md
+      - Thesis: doctoral/thesis.md
 
   - Resources:
       - Tutorials:
