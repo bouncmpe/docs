@@ -3,10 +3,10 @@
 - The student has to register for the Qualifying Exam at no later than the fifth semester. The registration status has to be `Q`.
 - At the beginning of the `Q` semester, Graduate Studies Coordinator studies the Q-ReCEF forms of the registered students. If a student does not have a Q-ReCEF form or it does not show that the student has the necessary breadth, then the grade of the qualifying exam is given as `F`. All the other students have to contact the Qualifying Commission to start the procedure for the Depth Measurement Exam and Oral Exam[^1]. 
 - At the beginning of the `Q` semester, an examination committee (QEC) on the research field of the candidate is formed. QEC consists of five full-time professors[^prof] as follows: 
-  - Thesis advisor
-  - One full-time professor from the CmpE Department
-  - One full-time professor from Boğaziçi University (CmpE or another department)
-  - Two full-time professors from another university.
+    - Thesis advisor
+    - One full-time professor from the CmpE Department
+    - One full-time professor from Boğaziçi University (CmpE or another department)
+    - Two full-time professors from another university.
 - QEC decides on the resources (papers, books, etc.) that the candidate should study for Depth Measurement.
 - The candidate is responsible for a publication that he/she produced, in addition to the resources given by the QEC. 
 
