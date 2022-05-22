@@ -6,7 +6,7 @@ Minor Degree applications must be made on the dates specified in the academic ca
 
 ## Minor Degree for Computer Engineering Students
 
-Please refer to the information provided by the university [here](http://ogrenciler.boun.edu.tr/Home/SubPage/yandalprogramlari) for minor degree programs in other departments.
+Please refer to the information provided by the university [here](http://ogrenciler.boun.edu.tr/Home/SubPage/yandalprogramlari).
 
 ## Minor Degree in Computer Engineering
 
