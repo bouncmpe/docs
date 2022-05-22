@@ -1,6 +1,6 @@
 # Courses
 
-## Course Selection
+## General Information
 
 * Course phase consists of eight technical elective courses + `CMPE700` (PhD Seminar)[^1]. 
 * Technical courses are expected to be in alignment with the chosen research area. The advisor may ask the student to take as many non-credit courses as necessary[^2].  
