@@ -30,15 +30,6 @@
 - Thesis Defense has to take place within one month after the thesis book is given to TDJ.  It has to be properly announced at least fifteen days before the defense. The advisor also has to inform Institute of Graduate Studies in Science and Engineering (FBE) about the defense time and place by dropping an e-mail to fbe@boun.edu.tr
 - Thesis Defense is an oral presentation open to TDJ, other faculty members, students and experts in the field of the thesis work. After the presentation, TDJ asks questions to evaluate the thesis work and the PhD candidate. 
 - After the defense, TDJ can directly accept the thesis or grant at most six months to the candidate so that he/she can complete some additional work asked by the TDJ. If the thesis work is still found unsatisfactory after this period, then the student has to leave the program.
-oUn-CmpE PhD graduation requirements are as follows:
-  - Two accepted journal papers (indexed by SCIE, SCI, SSCI or AHCI)
-  - One conference paper, which is published in the proceedings as a full paper
-  - Service as a teaching assistant (TA) in one of the mandatory CmpE courses. Students who serve as a TA in another university or department are exempt from this requirement. Neglected or abandoned duties double the TA service requirements for graduation
-  - Department, university or public seminar.
-  - Special conditions may apply if the students satisfy the specified necessary conditions:
-    - One accepted journal paper (indexed by SCIE, SCI, SSCI or AHCI) is sufficient for the students who had passed the qualifying exam before Fall 2009 (inclusive).
-    - No conference paper is required for the students who had started the PhD program before Spring 2017 (inclusive).
-    - Service as a teaching assistant in one of the CmpE courses is satisfactory for the students who had started the PhD program before Fall 2017 (inclusive).
 
 For all other rules and regulations, please read the [Bylaws of Graduate Studies in Boğaziçi University](http://www.boun.edu.tr/tr_TR/Content/Ogrenciler/Ogrenci_Isleri/Yonetmelik_ve_Ic_Tuzukler/BU_Lisansustu_Egitim_ve_Ogretim_Yonetmeligi).
 
