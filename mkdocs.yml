@@ -65,9 +65,6 @@ extra_css:
   - assets/stylesheets/extra.css
 
 nav:
-  - Getting Started:
-      - getting-started/index.md
-
   - Undergraduate Program:
       - undergraduate/index.md
       - Incoming Students: undergraduate/incoming-students.md
