@@ -1,30 +1,27 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.231.6/containers/docker-existing-dockerfile
 {
-	"name": "MkDocs Material",
-	// Sets the run context to one level up instead of the .devcontainer folder.
-	"context": "..",
-	// Update the 'dockerFile' property if you aren't using the standard 'Dockerfile' filename.
-	"dockerFile": "../Dockerfile",
-	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": [
-		"redhat.vscode-yaml",
-		"mervin.markdown-formatter",
-		"errata-ai.vale-server"
-	],
-	// Set *default* container specific settings.json values on container create.
-	"settings": {
-		"editor.wordWrap": "bounded",
-		"editor.wordWrapColumn": 120,
-		"editor.wrappingIndent": "indent",
-		"[markdown]": {
-			"editor.wordWrap": "bounded",
-			"editor.wordWrapColumn": 80,
-			"editor.wrappingIndent": "indent",
-			"editor.quickSuggestions": false,
-			"editor.defaultFormatter": "mervin.markdown-formatter"
-		},
-		"vale.core.useCLI": true
-	},
-	"remoteUser": "bouncmpe"
+  "name": "MkDocs Material",
+  // Sets the run context to one level up instead of the .devcontainer folder.
+  "context": "..",
+  // Update the 'dockerFile' property if you aren't using the standard 'Dockerfile' filename.
+  "dockerFile": "./Dockerfile",
+  // Add the IDs of extensions you want installed when the container is created.
+
+  "customizations": {
+    "extensions": ["redhat.vscode-yaml"],
+    "settings": {
+      "editor.wordWrap": "bounded",
+      "editor.wordWrapColumn": 120,
+      "editor.wrappingIndent": "indent",
+      "[markdown]": {
+        "editor.wordWrap": "bounded",
+        "editor.wordWrapColumn": 80,
+        "editor.wrappingIndent": "indent",
+        "editor.quickSuggestions": false
+      }
+    }
+  },
+
+  "remoteUser": "bouncmpe"
 }
