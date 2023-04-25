@@ -1,17 +1,13 @@
 # Incoming Students
 
-Congratulations to all our newly admitted students!
+Congratulations on your admission to Boğaziçi University! 
+To start your academic journey with us, please refer to [the University Registration](https://ogrenciler.boun.edu.tr/Home/Content/universityregistration) page for detailed information on the registration process.
 
-To register at Boğaziçi University for the first time, please see the detailed information on the [University Registration](https://ogrenciler.boun.edu.tr/Home/Content/universityregistration) page.
+After completing your university registration, you will need to register for your courses every semester via OBIKAS, our online registration system, available at [registration.boun.edu.tr](https://registration.boun.edu.tr). 
+This is crucial to ensure you can continue with your studies and access the rights granted to students. Please note that semester registrations must be completed within the dates specified in the academic calendar.
 
-After registering at the University, you will need to register for your courses at the beginning of every academic term via OBIKAS, the online registration system at [registration.boun.edu.tr](https://registration.boun.edu.tr) to be able to continue with your studies and benefit from rights granted to students.
+However, students admitted to preparatory classes at the School of Foreign Languages (YADYOK) will not be required to register through OBIKAS. 
+YADYOK preparatory class students who have completed university registration will receive their academic registration approval from the Registrar's Office.
 
-Semester registrations must be completed between the dates specified in the [academic calendar](https://academiccalendar.boun.edu.tr/).
-
-Students admitted to preparatory classes at the School of Foreign Languages (YADYOK) do not have to register via the OBIKAS system. YADYOK preparatory class students who have completed university registration will receive their academic registration approval from the Registrar's Office.
-
-Students who have financial obligations will be able to access the registration system and register for courses only after making the necessary payments. Detailed information on financial obligations may be found at the Tuition and Fees link.
-
-## Students placed through YKS exams
-
-Please also check the page [Üniversiteye Kayıt](https://universiteyekayit.boun.edu.tr/) (in Turkish).
+Please be reminded that students with financial obligations will only be able to access the registration system and register for courses after clearing their dues. 
+Detailed information on tuition and fees can be found at the [Tuition and Fees](https://ogrenciler.boun.edu.tr/Home/Content/tuitionandfees) link.
