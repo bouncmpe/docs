@@ -8,12 +8,15 @@ copyright: Copyright &copy; 1982 - 2022 Department of Computer Engineering
 docs_dir: content
 repo_name: bouncmpe/docs
 repo_url: https://github.com/bouncmpe/docs
-edit_uri: blob/main/content/
+edit_uri: edit/main/content/
 
 theme:
   name: material
   logo: assets/images/logo.png
   favicon: assets/images/logo.png
+  icon:
+    edit: material/pencil 
+    view: material/eye
   language: "en"
   font:
     text: Inter
@@ -28,8 +31,12 @@ theme:
     # - navigation.expand
     - navigation.indexes
     - navigation.top
+    - content.action.edit
+    - content.action.view
 
 plugins:
+  - git-revision-date-localized:
+      type: iso_date
   - search:
       lang:
         - en
@@ -55,6 +62,8 @@ markdown_extensions:
       anchor_linenums: true
 
 extra:
+  version:
+    provider: mike
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/Bogazici_CmpE
