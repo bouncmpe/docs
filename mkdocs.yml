@@ -1,9 +1,9 @@
-site_name: CMPE Documentation
-site_url: https://bouncmpedocs.netlify.app/
-site_description: "Documentation for the Department of Computer Engineering at Boğaziçi University"
+site_name: Computer Engineering Docs
+site_url: https://docs.cmpe.boun.edu.tr/
+site_description: "Documentation for Computer Engineering Department at Boğaziçi University"
 site_author: bouncmpe
 
-copyright: Copyright &copy; 1982 - 2022 Department of Computer Engineering
+copyright: Copyright &copy; 1982 - 2023 Department of Computer Engineering
 
 docs_dir: content
 repo_name: bouncmpe/docs
@@ -15,7 +15,7 @@ theme:
   logo: assets/images/logo.png
   favicon: assets/images/logo.png
   icon:
-    edit: material/pencil 
+    edit: material/pencil
     view: material/eye
   language: "en"
   font:
@@ -25,8 +25,8 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-    # - navigation.tabs
-    # - navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     # - navigation.expand
     - navigation.indexes
@@ -93,30 +93,30 @@ nav:
       - Minor Degree Program: undergraduate/minor-degree.md
       - Student Exchange Programs: undergraduate/student-exchange.md
 
-  - Masters Program:
-      - masters/index.md
+  - MS Program:
+      - ms-program/index.md
       - Application:
-          - masters/application/index.md
-          - Overview: masters/application/index.md
-          - Interview: masters/application/interview.md
-          - Evaluation: masters/application/evaluation.md
-      - Admitted Students: masters/admitted.md
-      - Semester Registration: masters/registration.md
-      - Courses: masters/courses.md
-      - Thesis: masters/thesis.md
+          - ms-program/application/index.md
+          - Overview: ms-program/application/index.md
+          - Interview: ms-program/application/interview.md
+          - Evaluation: ms-program/application/evaluation.md
+      - Admitted Students: ms-program/admitted.md
+      - Semester Registration: ms-program/registration.md
+      - Courses: ms-program/courses.md
+      - Thesis: ms-program/thesis.md
 
-  - Doctoral Program:
-      - doctoral/index.md
+  - PhD Program:
+      - phd-program/index.md
       - Application:
-          - doctoral/application/index.md
-          - Overview: doctoral/application/index.md
-          - Interview: doctoral/application/interview.md
-          - Evaluation: doctoral/application/evaluation.md
-      - Admitted Students: doctoral/admitted.md
-      - Semester Registration: doctoral/registration.md
-      - Courses: doctoral/courses.md
-      - Qualification: doctoral/qualification.md
-      - Thesis: doctoral/thesis.md
+          - phd-program/application/index.md
+          - Overview: phd-program/application/index.md
+          - Interview: phd-program/application/interview.md
+          - Evaluation: phd-program/application/evaluation.md
+      - Admitted Students: phd-program/admitted.md
+      - Semester Registration: phd-program/registration.md
+      - Courses: phd-program/courses.md
+      - Qualification: phd-program/qualification.md
+      - Thesis: phd-program/thesis.md
 
   - Resources:
       - Tutorials:
