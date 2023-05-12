@@ -9,8 +9,9 @@
   // Add the IDs of extensions you want installed when the container is created.
 
   "customizations": {
-    "extensions": ["redhat.vscode-yaml"],
+    "extensions": ["redhat.vscode-yaml", "esbenp.prettier-vscode"],
     "settings": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
       "editor.wordWrap": "bounded",
       "editor.wordWrapColumn": 120,
       "editor.wrappingIndent": "indent",
