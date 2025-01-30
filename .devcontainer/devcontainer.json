@@ -1,0 +1,20 @@
+// .devcontainer/devcontainer.json
+{
+  "name": "Sphinx",
+  "dockerFile": "Dockerfile",
+  "runArgs": [
+    "--cap-add=SYS_PTRACE",
+    "--security-opt",
+    "seccomp=unconfined"
+  ],
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    },
+    "settings": {
+      "terminal.integrated.defaultProfile.linux": "bash"
+    }
+  },
+  "remoteUser": "bouncmpe",
+  "postCreateCommand": "pip install -r requirements.txt"
+}
