@@ -62,20 +62,29 @@ html_theme_options = {
 
     #     "color-admonition-background": "orange",
     # },
-    # "dark_css_variables": {
-    #     "color-brand-primary": "#1e4a8b",
-    #     "color-brand-content": "#8cc8ea",
+    "dark_css_variables": {
+ 
+        "color-brand-primary": "#eceff4",
+        "color-brand-content": "#eceff4",
+       " color-brand-visited": "#872ee0",
 
-    #     "color-background-primary": "#2e3440",
-    #     "color-background-secondary": "#2e3440",
-    #     "color-background-hover": "#4c566a",
-    #     "color-background-hover--transparent":"",
-    #     "color-background-border":"#4c566a",
-    #     "color-background-item":"#4c566a",
+        "color-foreground-primary": "#eceff4",
+        "color-foreground-secondary": "#e5e9f0", 
+        "color-foreground-muted": "#81a1c1",
+        "color-foreground-border": "#88c0d0",
+       
+        "color-background-primary": "#2e3440",
+        "color-background-secondary": "#2e3440",
+        "color-background-hover": "#434c5e",
+        "color-background-hover--transparent":"#434c5e",
+        "color-background-border":"#4c566a",
+        "color-background-item":"#4c566a",
 
-    #     "color-admonition-background": "orange",
+        "color-link--visited": "#eceff4",
 
-    # },
+        "color-admonition-background": "#b48ead",
+
+    },
     "footer_icons": [
         {
             "name": "GitHub",

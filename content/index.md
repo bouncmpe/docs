@@ -5,15 +5,27 @@
 :start-after: <!-- start introduction -->
 :end-before: <!-- end introduction -->
 ```
+```{toctree}
+:hidden:
+:maxdepth: 2
+:caption: Graduate Studies
+
+phd/index
+ms/index
+```
 
 ```{toctree}
 :hidden:
 :maxdepth: 2
-:caption: Table of Contents
+:caption: Undergraduate Studies
+undergraduate/regulations
+undergraduate/cc
+```
 
-phd/index
-ms/index
-undergraduate/index
+```{toctree}
+:hidden:
+:maxdepth: 2
+:caption: Tutorials
 tutorials/index
 ```
 
