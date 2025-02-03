@@ -11,7 +11,7 @@
 
 "Code",  "Course Title", "Notes"
 "CMPE4XX", "All courses with the code CMPE4XX", ""
-"", "EXCEPT", "CMPE443, CMPE451 and CMPE492 are not allowed."
+"", "EXCEPT", "CMPE443, CMPE451, and CMPE492 are not eligible."
 :::
 
 {#other-departments}
@@ -106,11 +106,11 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"EE3XX", "All courses with the code EE3XX", ""
+"EE4XX", "All courses with the code EE4XX", ""
+"EE5XX", "All courses with the code EE5XX", ""
+"", "EXCEPT", "EE301, EE310, EE311, EE312, EE411, EE412, EE444, EE486, and EE588 are not eligible."
+"", "EXCEPT", "EE484 is under the Management Pool."
 :::
 
 {#IE}
@@ -226,7 +226,7 @@
 :::
 
 {#management}
-## Management CC 
+## Management Pool
 
 Students can take at most one of the following non-technical courses from AD, EC, or ENG as a complementary course.
 

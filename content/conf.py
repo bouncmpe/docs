@@ -35,8 +35,7 @@ myst_enable_extensions = [
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = "bouncmpe/docs"
-html_short_title = "bouncmpe/docs"
+html_title = "@bouncmpe/docs"
 html_theme = 'furo'
 html_static_path = ['_static']
 html_css_files = [
@@ -66,7 +65,7 @@ html_theme_options = {
  
         "color-brand-primary": "#eceff4",
         "color-brand-content": "#eceff4",
-       " color-brand-visited": "#872ee0",
+        "color-brand-visited": "#872ee0",
 
         "color-foreground-primary": "#eceff4",
         "color-foreground-secondary": "#e5e9f0", 
