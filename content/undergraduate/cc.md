@@ -1,8 +1,21 @@
 {#top}
-# Complementary Courses
+# List of Complementary Courses
 
-{#unrestricted}
-## Unrestricted CC
+{#cmpe}
+## Computer Engineering
+
+:::{csv-table}
+:width: 100%
+:widths: 10 40 50
+:header-rows: 1
+
+"Code",  "Course Title", "Notes"
+"CMPE4XX", "All courses with the code CMPE4XX", ""
+"", "EXCEPT", "CMPE443, CMPE451 and CMPE492 are not allowed."
+:::
+
+{#other-departments}
+## Other Departments
 
 {#BM}
 ### BM - Biomedical Engineering
