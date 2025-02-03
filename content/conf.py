@@ -73,7 +73,7 @@ html_theme_options = {
         "color-foreground-border": "#88c0d0",
        
         "color-background-primary": "#2e3440",
-        "color-background-secondary": "#2e3440",
+        "color-background-secondary": "#292f3a",
         "color-background-hover": "#434c5e",
         "color-background-hover--transparent":"#434c5e",
         "color-background-border":"#4c566a",
