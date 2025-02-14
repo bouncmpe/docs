@@ -43,24 +43,25 @@ html_css_files = [
 ]
 html_permalinks_icon = "<span>#</span>"
 html_theme_options = {
-    # "light_css_variables": {
-    #     "color-brand-primary": "#1e4a8b",
-    #     "color-brand-content": "#1e4a8b",
+     "light_css_variables": {
+        "color-brand-primary": "#1e4a8b",
+        "color-brand-content": "#1e4a8b",
 
-    #     "color-foreground-primary": "#2e3440", # for main text and headings
-    #     "color-foreground-secondary": "#4c566a", # for secondary text
-    #     "color-foreground-muted": "#d8dee9", # for muted text
-    #     "color-foreground-border": "#3b4252", # for content borders     
+        "color-foreground-primary": "#2e3440", 
+        "color-foreground-secondary": "#4c566a", 
+        "color-foreground-muted": "#0050a0",  
+        "color-foreground-border": "#3b4252",  
 
-    #     "color-background-primary": "#eceff4",
-    #     "color-background-secondary": "#eceff4",
-    #     "color-background-hover": "#4c566a",
-    #     "color-background-hover--transparent":"#fff",
-    #     "color-background-border":"#e5e9f0",
-    #     "color-background-item":"#fff",
+        "color-background-primary": "#f2f4f7",
+        "color-background-secondary": "#eceff4",
+        "color-background-hover": "#97afc6",
+        "color-background-hover--transparent": "#fff",
+        "color-background-border": "#e5e9f0",
+        "color-background-item": "#fff",
 
-    #     "color-admonition-background": "orange",
-    # },
+        "color-admonition-background": "orange",
+    },
+
     "dark_css_variables": {
  
         "color-brand-primary": "#eceff4",

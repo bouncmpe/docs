@@ -42,11 +42,12 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"BIO101", "Cellular and Molecular Biology I", ""
+"BIO121", "Introduction to Cell Biology", ""
+"BIO152", "Introduction to Modern Biology", ""
+"BIO252", "Genetics", ""
+"BIO430", "Neuroscience", ""
+"BIO48B", "Bionformatics for Biologists", ""
 :::
 
 {#CE}
@@ -58,11 +59,10 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"CE245", "Mechanics", ""
+"CE371", "Numerical Methods in Civil Engineering", ""
+"CE381", "Computer Aided Design", ""
+"ENGG110", "Engineering Graphics", ""
 :::
 
 {#COGS}
@@ -74,11 +74,8 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"COGS500", "Introduction to Cognitive Science", ""
+
 :::
 
 {#EC}
@@ -90,7 +87,7 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
+"EC48T", "Financial Modelling & Its Applications Using R", ""
 "", "", ""
 "", "", ""
 "", "", ""
@@ -122,10 +119,10 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"IE3XX", "All courses with the code IE3XX", ""
+"IE4XX", "All courses with the code IE4XX", ""
+"IE5XX", "All courses with the code IE5XX", ""
+"", "EXCEPT", "IE306, IE310, IE320, IE341 and IE504 are not eligible"
 "", "", ""
 :::
 
@@ -134,15 +131,18 @@
 
 :::{csv-table}
 :width: 100%
-:widths: 10 40 50
+:widths: 10 50 30
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"LING101", "Introduction to Language & Linguistics I", ""
+"LING102", "Introduction to Language & Linguistics II", ""
+"LING111", "Introduction to Language & Linguistics", ""
+"LING202", "Morphology", ""
+"LING203", "Syntax", ""
+"LING488", "Special Topics in Linguistics", ""
+"LING48N", "Sp. Tp. Language and Cognition", ""
+"LING580", "Topics in Linguistic Theory", ""
 :::
 
 {#MATH}
@@ -150,11 +150,26 @@
 
 :::{csv-table}
 :width: 100%
+:widths: 20 40 50
+:header-rows: 1
+
+"Code", "Course Title", "Notes"
+"MATH291 & MATH3XX", "MATH291 & all courses with the code MATH3XX", ""
+"MATH4XX", "all courses with the code MATH3XX", ""
+"MATH5XX", "all courses with the code MATH4XX", ""
+"", "EXCEPT", " MATH310, MATH344 and MATH336 are not eligible"
+:::
+
+{#LING-PROGRAM}
+### LING - Linguistics Program 
+
+:::{csv-table}
+:width: 100%
 :widths: 10 40 50
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
+"LING48T", "SP.TP.NEUROLINGUISTICS", ""
 "", "", ""
 "", "", ""
 "", "", ""
@@ -170,15 +185,15 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"PHIL105", "Informal Logic", ""
+"PHIL131", "Logic I", ""
+"PHIL132", "Logic II", ""
+"PHIL331", "Advanced Logic I", ""
+"PHIL522", "Mathematical Logic", ""
 :::
 
-{#PHYS}
-### PHYS - Physics
+{#STS}
+### STS -  Physics
 
 :::{csv-table}
 :width: 100%
@@ -186,11 +201,22 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"STS205", "The Climate", ""
+
+:::
+
+{#PHYS}
+### PHYS - Physics
+
+:::{csv-table}
+:width: 100%
+:widths: 50 40 50
+:header-rows: 1
+
+"Code", "Course Title", "Notes"
+"PHYS48B", "SEL. TOP.: Wavelets", ""
+"PHYS494", "SP. TOP. : Applied Fourier Analysis", ""
+"PHYS 311, 312, 325, 411, 412, 497 and any Quantum Computation elective", "", ""
 :::
 
 {#PSY}
@@ -202,11 +228,12 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"PSY222", "Learning", ""
+"PSY271", "Introduction to Neuroscience: Brain & Behavior", ""
+"PSY326", "Human Memory", ""
+"PSY327", "Sensation and Perception", ""
+"PSY328", "Psychology of Language", ""
+"PSY484", "Selected Topics in Cognitive Psychology", ""
 :::
 
 {#SOC}
@@ -218,7 +245,7 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
+"SOC490", "Introduction to Digital Humanities", ""
 "", "", ""
 "", "", ""
 "", "", ""
@@ -235,13 +262,38 @@ Students can take at most one of the following non-technical courses from AD, EC
 
 :::{csv-table}
 :width: 100%
-:widths: 10 40 50
+:widths: 10 50 40
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"AD403", "Managerial Economics", ""
+"AD407", "Decision Processes", ""
+"AD432", "Entrepreneurship", ""
+"AD440", "Digital Marketing", ""
+"AD452", "Information Systems Management", ""
+"AD462", "Legal Aspects of Intellectual Property (IP) Management", ""
+"AD482", "Special Topics in Information Systems", ""
+"AD49B", "SP.TP.FINANCE-FINTECH", ""
+"AD574", "Management Information and Control Systems", ""
+"EC203", "Microeconomics I", ""
+"EC205", "Macroeconomics I", ""
+"EC206", "EC 206 Microeconomics II", ""
+"EC331", "Econometrics", ""
+"EE484", "Sp. Tp. Management for Engineers", ""
+"ENG493", "Technology Entrepreneurship", ""
+
 :::
+
+## HSS/CC Committee 
+
+:::{csv-table}
+:width: 100%
+:widths: 30 70
+:header-rows: 1
+
+"", ""
+"Cem Ersoy", "BM 44 / +90 212 359 6861 / <ersoy@bogazici.edu.tr>"
+"H. Birkan Yılmaz", "BM 45 / <birkan.yilmaz@bogazici.edu.tr>"
+:::
+
+
