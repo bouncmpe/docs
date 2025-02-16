@@ -101,7 +101,7 @@
 * **SEMESTER TYPE on OBIKAS:** {bdg-danger}`QUALIFYING`
 * The student has to register for the Qualifying Exam at no later than the fifth semester. Qualifying Exam Commission manages the whole process.
 * The Qualifying exam consists of two parts: Depth Measurement Exam and Oral exam.
-* At the beginning of the Qualifying semester, an examination committee (QEC) on the research field of the candidate is formed. QEC consists of five <u>full-time professors*</u> as follows:
+* At the beginning of the Qualifying semester, an examination committee (QEC) on the research field of the candidate is formed. QEC consists of five <u>full-time professors</u>[^ref]:  as follows:
     * thesis advisor
     * one full-time professor from the department
     * one full-time professor from BÜ (CMPE or another department)
@@ -128,7 +128,7 @@ LIMITED CONDITION: Students who started the program before Spring 2019 (excluded
 ## Ph.D. Thesis
 * **SEMESTER TYPE on OBIKAS:** {bdg-danger}`THESIS`
 
-#### {bdg-danger}`Thesis Proposal`
+#### Thesis Proposal
 
 * In at most six months following the qualifying exam, a Thesis Progress Committee (TPC) is formed with three full-time professors*. Thesis Advisor is a natural member of TPC. One of these members should be from another department or university. 
 * If there is a Co-advisor, then TPC is formed with four members. Co-advisor has no right to vote at any stage of the thesis work.
@@ -137,7 +137,7 @@ LIMITED CONDITION: Students who started the program before Spring 2019 (excluded
 * The student has to register to his/her advisor's section of CMPE790: PHD THESIS. 
 * The student prepares a thesis proposal under the guidance of the Thesis Advisor. The proposal should be passed to TPC at least 15 days before the defense. The student makes an oral presentation the proposal to TPC. If the proposal is accepted as the thesis topic, the student gets TP as the CMPE790 grade (Thesis in Progress). Otherwise, he/she is given an extension of three months to make the necessary changes and defend. If the proposal is not found successful again, then the student has to leave the program.
 
-#### {bdg-danger}`Thesis Period`
+#### Thesis Period
 
 * Once the thesis proposal is accepted, the student starts the PhD Thesis. The proposal has to be reported to the Institute.
 * The TPC evaluates the thesis progress in at most every six months. For this purpose, a written progress report is submitted to the TPC at least one month before the evaluation.
@@ -146,17 +146,17 @@ LIMITED CONDITION: Students who started the program before Spring 2019 (excluded
 * TPC has to file a report to the Institute of Graduate Studies at the end of each semester regardless of the presence of a progress report. The report should mention about the status of the thesis and and the evaluation of the proposed progress report if there is any. 
 * CMPE Department advises PhD students to publish at least one paper in each progress period. 
 
-#### {bdg-danger}`Thesis Defense`
+#### Thesis Defense
 
 * The student has to complete at least three progress periods before defending the thesis.
 
 * A thesis book has to be written under the guidance of the thesis advisor. The thesis book has to be evaluated by the advisor to check ethical and scientific correctness, and completeness of the work. If some parts of the thesis book get published, then it is the student’s responsibility to check the copyright policies of the publisher. Complete guideline for the thesis book preparation is [here](https://fbe.bogazici.edu.tr/en/thesis-formatting-instructions).
 
-* Before the defense, the thesis book has to be submitted to the Thesis Defense Jury (TDJ), which is formed of five full-time professors*:
+* Before the defense, the thesis book has to be submitted to the Thesis Defense Jury (TDJ), which is formed of five full-time professors:
 
     * TPC is a subset of TDJ.
 
-    * TDJ has to contain at least two full-time professors* from another university
+    * TDJ has to contain at least two full-time professors from another university
 
     * Majority of TDJ has to be full-time professors* of Boğaziçi University
 
@@ -184,4 +184,4 @@ LIMITED CONDITION: Students who started the program before Spring 2019 (excluded
 
     * Service as a teaching assistant in one of the CMPE courses is satisfactory for the students who had started the PhD program before Fall 2017 (inclusive).
 
-*: A full-time professor is a faculty member with the title of Assistant Professor, Associate Professor or Professor.
+[^ref]: : A full-time professor is a faculty member with the title of Assistant Professor, Associate Professor or Professor.

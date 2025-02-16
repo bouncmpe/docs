@@ -87,21 +87,21 @@
 ## MS Thesis
 * **SEMESTER TYPE on OBIKAS:** {bdg-danger}`THESIS`
 
-#### {bdg-danger}`Thesis Proposal`</span>
+#### Thesis Proposal
 
 * Starting from the second semester, the student has to register to his/her supervisor's section of CMPE690: MSC THESIS. 
 * The student prepares a thesis proposal under the guidance of the Thesis Supervisor who circulates it in the Department Board. Once the thesis proposal is accepted, the student starts the M.Sc. Thesis. The proposal has to be reported to the Institute.
 * There can also be a Co-supervisor who can be a PhD holder. 
 
-#### {bdg-danger}`Thesis Period`
+#### Thesis Period
 
 * Thesis Supervisor evaluates the thesis progress every semester. If it is found sufficient, the student gets TP grade.
 
-#### {bdg-danger}`Thesis Defense`
+#### Thesis Defense
 
 * A thesis book has to be written under the guidance of the thesis advisor. The thesis book has to be evaluated by the advisor to check ethical and scientific correctness, and completeness of the work. If some parts of the thesis book get published, then it is the student’s responsibility to check the copyright policies of the publisher. Complete guideline for the thesis book preparation is here.
-* Before the defense, the thesis book has to be submitted to the Thesis Defense Jury (TDJ), which is formed of three or five full-time professors*:
-    * One full-time professor* from another university
+* Before the defense, the thesis book has to be submitted to the Thesis Defense Jury (TDJ), which is formed of three or five full-time professors [^ref]
+    * One full-time professor from another university
     * Majority of TDJ has to be full-time professors* of Boğaziçi University
     * Co-supervisor can appear and vote in a five-member TDJ provided that she/he is a full-time faculty member. In all other cases, he/she can appear in TDJ but cannot vote.
 * Thesis Defense has to take place within one month after the thesis book is given to TDJ.  It has to be publicly announced at least fifteen days before the defense. The advisor also has to inform Institute of Graduate Studies in Science and Engineering (FBE) about the defense time and place by dropping an e-mail to <fbe@bogazici.edu.tr>
@@ -109,5 +109,5 @@
 * After the defense, TDJ can directly accept the thesis or grant at most three months to the candidate so that he/she can complete some additional work asked by the TDJ. If the thesis work is still found unsatisfactory after this period, then the student has to leave the program.
 *  Graduation requirements are as follows: The thesis work should also be submitted as a scientific paper to a peer-reviewed conference or a peer-reviewed journal or a patent evaluation. If the submission is under review at the time of graduation, its copy also has to be passed to the Graduate Studies Coordinator.
 
-*: A full-time professor is a faculty member with the title of Assistant Professor, Associate Professor, or Professor.
+[^ref]: A full-time professor is a faculty member with the title of Assistant Professor, Associate Professor, or Professor.
 
