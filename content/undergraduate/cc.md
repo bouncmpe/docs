@@ -47,7 +47,7 @@
 "BIO152", "Introduction to Modern Biology", ""
 "BIO252", "Genetics", ""
 "BIO430", "Neuroscience", ""
-"BIO48B", "Bionformatics for Biologists", ""
+"BIO48B", "Bioinformatics for Biologists", ""
 :::
 
 {#CE}
@@ -88,10 +88,6 @@
 
 "Code", "Course Title", "Notes"
 "EC48T", "Financial Modelling & Its Applications Using R", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
 :::
 
 {#EE}
@@ -122,8 +118,7 @@
 "IE3XX", "All courses with the code IE3XX", ""
 "IE4XX", "All courses with the code IE4XX", ""
 "IE5XX", "All courses with the code IE5XX", ""
-"", "EXCEPT", "IE306, IE310, IE320, IE341 and IE504 are not eligible"
-"", "", ""
+"", "EXCEPT", "IE306, IE310, IE320, IE341 and IE504 are not eligible."
 :::
 
 {#LING}
@@ -154,10 +149,11 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"MATH291 & MATH3XX", "MATH291 & all courses with the code MATH3XX", ""
-"MATH4XX", "all courses with the code MATH3XX", ""
-"MATH5XX", "all courses with the code MATH4XX", ""
-"", "EXCEPT", " MATH310, MATH344 and MATH336 are not eligible"
+"MATH291","", ""
+"MATH3XX","all courses with the code MATH3XX",""
+"", "EXCEPT", " MATH310, MATH344 and MATH336 are not eligible. "
+"MATH4XX", "all courses with the code MATH4XX", ""
+"MATH5XX", "all courses with the code MATH5XX", ""
 :::
 
 {#LING-PROGRAM}
@@ -169,11 +165,7 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"LING48T", "SP.TP.NEUROLINGUISTICS", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
+"LING48T", "Sp. Tp. Neurolinguistics", ""
 :::
 
 {#PHIL}
@@ -202,7 +194,6 @@
 
 "Code", "Course Title", "Notes"
 "STS205", "The Climate", ""
-
 :::
 
 {#PHYS}
@@ -214,9 +205,10 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"PHYS48B", "SEL. TOP.: Wavelets", ""
-"PHYS494", "SP. TOP. : Applied Fourier Analysis", ""
-"PHYS 311, 312, 325, 411, 412, 497 and any Quantum Computation elective", "", ""
+"PHYS48B", "Sel. Top. Wavelets", ""
+"PHYS494", "Sp. Tp.  Applied Fourier Analysis", ""
+"PHYS 311, 312, 325, 411, 412, 497 ", "", ""
+"","PLUS","Any quantum computation elective."
 :::
 
 {#PSY}
@@ -246,10 +238,6 @@
 
 "Code", "Course Title", "Notes"
 "SOC490", "Introduction to Digital Humanities", ""
-"", "", ""
-"", "", ""
-"", "", ""
-"", "", ""
 :::
 
 {#management}
@@ -284,16 +272,6 @@ Students can take at most one of the following non-technical courses from AD, EC
 
 :::
 
-## HSS/CC Committee 
 
-:::{csv-table}
-:width: 100%
-:widths: 30 70
-:header-rows: 1
-
-"", ""
-"Cem Ersoy", "BM 44 / +90 212 359 6861 / <ersoy@bogazici.edu.tr>"
-"H. Birkan Yılmaz", "BM 45 / <birkan.yilmaz@bogazici.edu.tr>"
-:::
 
 

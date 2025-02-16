@@ -29,10 +29,10 @@ undergraduate/cc
 tutorials/index
 ```
 
-- [PhD Program Documentation](phd/index.md)
+- [Ph.D. Program Documentation](phd/index.md)
     - [Application](phd/index.md/#application)
     - [Pre-Evaluation](phd/index.md/#pre-evaluation)
-    - [Scientific Interview](phd/index.md/#scientific-interview)
+    - [Scientific Interview](phd/index.md/#interview)
     - [Evaluation](phd/index.md/#evaluation)
     - [Registration](phd/index.md/#registration)
     - [Courses: Scientific Preparation](phd/index.md/#courses-scientific-prep)
@@ -40,10 +40,10 @@ tutorials/index
     - [Qualifying Exam](phd/index.md/#qualifying-exam)
     - [Thesis](phd/index.md/#phd-thesis)
 
-- [MS Program Documentation](ms/index.md)
+- [M.Sc. Program Documentation](ms/index.md)
     - [Application](ms/index.md/#application)
     - [Pre-Evaluation](ms/index.md/#pre-evaluation)
-    - [Scientific Interview](ms/index.md/#scientific-interview)
+    - [Scientific Interview](ms/index.md/#interview)
     - [Evaluation](ms/index.md/#evaluation)
     - [Registration](ms/index.md/#registration)
     - [Courses: Scientific Preparation](ms/index.md/#courses-scientific-prep)

@@ -59,7 +59,9 @@ html_theme_options = {
         "color-background-border": "#e5e9f0",
         "color-background-item": "#fff",
 
-        "color-admonition-background": "orange",
+        "color-admonition-background": "#f8d7da",  
+        "color-admonition-warning-border": "#f5c6cb",  
+        "color-admonition-warning-text": "#721c24",  
     },
 
     "dark_css_variables": {
@@ -82,7 +84,9 @@ html_theme_options = {
 
         "color-link--visited": "#eceff4",
 
-        "color-admonition-background": "#b48ead",
+         "color-admonition-background": "#3e1f1b", 
+        "color-admonition-warning-border": "#d9534f",  
+        "color-admonition-warning-text": "#ffffff",  
 
     },
     "footer_icons": [
