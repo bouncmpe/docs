@@ -1,4 +1,4 @@
-{#top}
+{#phd_top}
 # Ph.D. Program in CMPE
 
 ---
@@ -128,7 +128,7 @@ LIMITED CONDITION: Students who started the program before Spring 2019 (excluded
 ## Ph.D. Thesis
 * **SEMESTER TYPE on OBIKAS:** {bdg-danger}`THESIS`
 
-#### Thesis Proposal
+### Thesis Proposal
 
 * In at most six months following the qualifying exam, a Thesis Progress Committee (TPC) is formed with three full-time professors*. Thesis Advisor is a natural member of TPC. One of these members should be from another department or university. 
 * If there is a Co-advisor, then TPC is formed with four members. Co-advisor has no right to vote at any stage of the thesis work.
@@ -137,7 +137,7 @@ LIMITED CONDITION: Students who started the program before Spring 2019 (excluded
 * The student has to register to his/her advisor's section of CMPE790: PHD THESIS. 
 * The student prepares a thesis proposal under the guidance of the Thesis Advisor. The proposal should be passed to TPC at least 15 days before the defense. The student makes an oral presentation the proposal to TPC. If the proposal is accepted as the thesis topic, the student gets TP as the CMPE790 grade (Thesis in Progress). Otherwise, he/she is given an extension of three months to make the necessary changes and defend. If the proposal is not found successful again, then the student has to leave the program.
 
-#### Thesis Period
+### Thesis Period
 
 * Once the thesis proposal is accepted, the student starts the PhD Thesis. The proposal has to be reported to the Institute.
 * The TPC evaluates the thesis progress in at most every six months. For this purpose, a written progress report is submitted to the TPC at least one month before the evaluation.
@@ -146,7 +146,7 @@ LIMITED CONDITION: Students who started the program before Spring 2019 (excluded
 * TPC has to file a report to the Institute of Graduate Studies at the end of each semester regardless of the presence of a progress report. The report should mention about the status of the thesis and and the evaluation of the proposed progress report if there is any. 
 * CMPE Department advises PhD students to publish at least one paper in each progress period. 
 
-#### Thesis Defense
+### Thesis Defense
 
 * The student has to complete at least three progress periods before defending the thesis.
 

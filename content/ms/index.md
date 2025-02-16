@@ -1,4 +1,4 @@
-{#top}
+{#msc_top}
 # M.Sc. Program in CMPE
 
 ---
@@ -81,23 +81,26 @@
 * The student is expected to complete 9 credits in the first semester, 15 credits at the end of the second semester and 21 credits (i.e., all course work) at the end of the third semester. Maximum course load per semester is five.
 * Courses with F/CC/CB grades can be repeated with another course. 
 * Courses and seminar have to be completed in four semesters with a GPA higher than 3.00 to continue to the program
-* CAUTION: Registration to MS THESIS is essential starting from the second semester. However, term type should be NORMAL until all courses finish. Please check MS Thesis for details. 
+ 
+````{caution}
+* Registration to MS THESIS is essential starting from the second semester. However, term type should be NORMAL until all courses finish. Please check MS Thesis for details. 
+````
 ---
 {#ms-thesis}
 ## MS Thesis
 * **SEMESTER TYPE on OBIKAS:** {bdg-danger}`THESIS`
 
-#### Thesis Proposal
+### Thesis Proposal
 
 * Starting from the second semester, the student has to register to his/her supervisor's section of CMPE690: MSC THESIS. 
 * The student prepares a thesis proposal under the guidance of the Thesis Supervisor who circulates it in the Department Board. Once the thesis proposal is accepted, the student starts the M.Sc. Thesis. The proposal has to be reported to the Institute.
 * There can also be a Co-supervisor who can be a PhD holder. 
 
-#### Thesis Period
+### Thesis Period
 
 * Thesis Supervisor evaluates the thesis progress every semester. If it is found sufficient, the student gets TP grade.
 
-#### Thesis Defense
+### Thesis Defense
 
 * A thesis book has to be written under the guidance of the thesis advisor. The thesis book has to be evaluated by the advisor to check ethical and scientific correctness, and completeness of the work. If some parts of the thesis book get published, then it is the student’s responsibility to check the copyright policies of the publisher. Complete guideline for the thesis book preparation is here.
 * Before the defense, the thesis book has to be submitted to the Thesis Defense Jury (TDJ), which is formed of three or five full-time professors [^ref]

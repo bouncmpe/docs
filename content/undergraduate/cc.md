@@ -1,4 +1,4 @@
-{#top}
+{#cc_top}
 # List of Complementary Courses
 
 {#cmpe}
