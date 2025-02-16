@@ -38,6 +38,7 @@ myst_enable_extensions = [
 html_title = "@bouncmpe/docs"
 html_theme = 'furo'
 html_static_path = ['_static']
+html_favicon = "_static/logo.png"
 html_css_files = [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
 ]
