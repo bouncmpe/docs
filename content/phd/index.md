@@ -3,7 +3,6 @@
 
 ---
 
-{#application}
 ## Application
 * Applications to the Graduate Studies (MSc. or PhD degree) in Boğaziçi University are processed electronically and there is no other channel of application. All prospective candidates should apply through the following link: <http://adaylar.boun.edu.tr/en-EN/Page/Admissions/Graduate/All>
 * The most actual information about the application process, such as required documents and certificates, quotas, and important deadlines, are announced regularly on the page linked above. The candidates are advised to study this information carefully and identify specific requirements for their individual cases, as there may be variations in required documents depending on the specific status. Applicants should compare to the previous application period, and plan well ahead to obtain mandatory certificates (such as GRE, TOEFL, UYS, YDS for PhD) on time. Remember that many certificates require registering many weeks before taking an exam and report results with some delay.
@@ -14,7 +13,7 @@
 * Some submissions require letters of reference written on candidate's behalf. Such letters must be uploaded to an on-line reference system by the referees. Past experience has shown that referees too often forget or delay to upload these letters. It is in the candidate's responsibility to remind the referees to ensure that letters are uploaded before the evaluation.
 * Before finishing the application process, each candidate must identify a desired area of research and prepare a detailed [statement of purpose (SoP)](http://www.cmpe.boun.edu.tr/sites/default/files/sop.docx). The SoP is a key document in the decision process; it is very strongly advised that the candidates get in contact with a full-time faculty member who has matching research interests and get a confirmation that the faculty member is willing to guide the candidate throughout the PhD research. This faculty member will act as both the academic advisor and the thesis supervisor. Please find the most recent list of the CMPE faculty, along with keywords of research interest, [here](https://cmpe.bogazici.edu.tr/people/faculty/).
 ---
-{#pre-evaluation}
+
 ## Pre-evaluation
 
 * The applications are processed case by case in the pre-evaluation phase. Note that incomplete applications may not be considered for further evaluation and the candidate may not be invited to an interview. Beware that the workflow in University's On-line Application System allows finalizing an application with eventually missing documents.
@@ -22,19 +21,18 @@
 * The result of the pre-evaluation is sent to each applicant a few days before the interview date. 
 
 ---
-{#interview}
 ## Scientific Interview
 * The CMPE Faculty Members conduct the scientific interview of the candidates. 
 * Once invited, each applicant must be present in person during the designated time slot for their interview. The interview typically takes between 5-15 minutes and involves a discussion of the candidate's past academic record, research direction, skillset and technical knowledge. If a candidate cannot be physically present for the interview, for instance, due to being resident in a foreign country, the Admission Committee must be informed as soon as possible in written form (e.g., via email) for a rearrangement, supported with the necessary justification.  
 
 ---
-{#evaluation}
+
 ## Evaluation
 * The Admission Committee evaluates each application based on several criteria, including the interview performance, evaluations of the CMPE Faculty Members about the candidate, transcript(s), and reference letters to reach a final decision.
 * The admission list is officially announced from the website of the Institute of Graduate Studies in Science and Engineering. 
 * The CMPE Faculty Member in the SoP of each accepted candidate is assigned as her/his Thesis Supervisor and Academic Advisor throughout the Ph.D. study. 
 ---
-{#registration}
+
 ## Registration
 * Registration process and additional required documents are announced on this website: http://ogrenciler.boun.edu.tr/Home/Content/universityregistration
 
@@ -62,7 +60,7 @@
 
 * If a student does not register in four successive terms, then OBIKAS access of the student is disabled until a valid English exam score is submitted to the Registrar's Office.
 ---
-{#scientific-prep}
+
 ## Courses: Scientific Prep
 * **SEMESTER TYPE on OBIKAS:**  {bdg-danger}`REMEDIAL`
 * A student may be asked to take remedial courses before starting the normal PhD program. Current remedial courses are
@@ -82,7 +80,7 @@
 * LIMITED CONDITION: If the student is a graduate of a non-thesis MSc program, then CMPE599 and CMPE59A also have to be taken in addition to the above list  (Applies to non-thesis MS program graduates who obtained their degrees before Feb 2013).
 
 ---
-{#main-program}
+
 ## Courses: Main Program
 * **SEMESTER TYPE on OBIKAS:** {bdg-danger}`NORMAL`
 * Eight technical elective courses + CMPE700 (PhD Seminar). At most one technical course can be of guided-research type.
@@ -96,7 +94,7 @@
 * "CMPE699: Guided Research in Phd - I" is a 4-credit course in which the student can start research for the domain of the PhD thesis. The student has to register to the related section of his/her advisor. This course is usually taken in the first or second semester. The advisor may ask the student to take at most four additional non-credit guided research courses, CMPE69A, 69B, 69C and 69D depending on the breadth of the thesis topic. The advisor may also approve the student taking a guided research course from another department. In this case, these guided research courses have to be registered as non-credit. 
 ---
 
-{#qualifying-exam}
+
 ## Qualifying Exam
 * **SEMESTER TYPE on OBIKAS:** {bdg-danger}`QUALIFYING`
 * The student has to register for the Qualifying Exam at no later than the fifth semester. Qualifying Exam Commission manages the whole process.
@@ -124,7 +122,6 @@ LIMITED CONDITION: Students who started the program before Spring 2019 (excluded
 
 *: A full-time professor is a faculty member with the title of Assistant Professor, Associate Professor or Professor.
 
-{#phd-thesis}
 ## Ph.D. Thesis
 * **SEMESTER TYPE on OBIKAS:** {bdg-danger}`THESIS`
 
