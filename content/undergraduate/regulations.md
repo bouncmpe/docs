@@ -1,4 +1,4 @@
-{#top}
+{#regulations_top}
 # Lisans Programı Kural ve Düzenlemeleri
 
 {#general}
