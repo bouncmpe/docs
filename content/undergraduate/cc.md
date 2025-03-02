@@ -17,22 +17,6 @@
 {#other-departments}
 ## Other Departments
 
-{#BM}
-### BM - Biomedical Engineering
-
-:::{csv-table}
-:width: 100%
-:widths: 10 40 50
-:header-rows: 1
-
-"Code",  "Course Title", "Notes"
-"BM402", "Engineering in Medicine", ""
-"BM519", "Biosensors", ""
-"BM554", "Modeling of Biological Systems", ""
-"BM586", "Stud. Artificial Intelligence in Healthcare", ""
-"BM595", "Simulator Applications In Human Performance Assignment", ""
-:::
-
 {#BIO}
 ### BIO - Molecular Biology and Genetics 
 
@@ -48,6 +32,22 @@
 "BIO252", "Genetics", "March 8, 2021"
 "BIO430", "Neuroscience", "September 21, 2020"
 "BIO48B", "Bioinformatics for Biologists", ""
+:::
+
+{#BM}
+### BM - Biomedical Engineering
+
+:::{csv-table}
+:width: 100%
+:widths: 10 40 50
+:header-rows: 1
+
+"Code",  "Course Title", "Notes"
+"BM402", "Engineering in Medicine", ""
+"BM519", "Biosensors", ""
+"BM554", "Modeling of Biological Systems", ""
+"BM586", "Artificial Intelligence in Healthcare", ""
+"BM595", "Simulator Applications In Human Performance Assignment", ""
 :::
 
 {#CE}
@@ -87,7 +87,7 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"EC48T", "Financial Modelling & Its Applications Using R", "September 21, 2022"
+"EC48T", "Financial Modelling and Its Applications Using R", "September 21, 2022"
 :::
 
 {#EE}
@@ -122,7 +122,7 @@
 :::
 
 {#LING}
-### LING - Western Languages and Literature 
+### LING - Linguistics
 
 :::{csv-table}
 :width: 100%
@@ -130,14 +130,15 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"LING101", "Introduction to Language & Linguistics I", ""
-"LING102", "Introduction to Language & Linguistics II", ""
-"LING111", "Introduction to Language & Linguistics", ""
+"LING101", "Introduction to Language and Linguistics I", ""
+"LING102", "Introduction to Language and Linguistics II", ""
+"LING111", "Introduction to Language and Linguistics I", ""
 "LING202", "Morphology", ""
 "LING203", "Syntax", ""
-"LING488", "Special Topics in Linguistics", ""
-"LING48N", "Sp. Tp. Language and Cognition", ""
-"LING580", "Topics in Linguistic Theory", ""
+"LING488", "Exploring Natural Languages by Modeling", ""
+"LING48N", "Language and Cognition", ""
+"LING48T", "Neurolinguistics", "July 12, 2021"
+"LING580", "Theoretical Issues in Sign Languages", ""
 :::
 
 {#MATH}
@@ -149,23 +150,11 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"MATH291","", ""
-"MATH3XX","All courses with the code MATH3XX",""
-"", "EXCEPT", " MATH310, MATH344 and MATH336 are not eligible. "
+"MATH291", "Algebra I", ""
+"MATH3XX", "All courses with the code MATH3XX", ""
 "MATH4XX", "All courses with the code MATH4XX", ""
 "MATH5XX", "All courses with the code MATH5XX", ""
-:::
-
-{#LING-PROGRAM}
-### LING - Linguistics Program 
-
-:::{csv-table}
-:width: 100%
-:widths: 10 40 50
-:header-rows: 1
-
-"Code", "Course Title", "Notes"
-"LING48T", "Sp. Tp. Neurolinguistics", "July 12, 2021"
+"", "EXCEPT", " MATH310, MATH344 and MATH336 are not eligible."
 :::
 
 {#PHIL}
@@ -184,18 +173,6 @@
 "PHIL522", "Mathematical Logic", ""
 :::
 
-{#STS}
-### STS -  Physics
-
-:::{csv-table}
-:width: 100%
-:widths: 10 40 50
-:header-rows: 1
-
-"Code", "Course Title", "Notes"
-"STS205", "The Climate", "June 23, 2020"
-:::
-
 {#PHYS}
 ### PHYS - Physics
 
@@ -205,15 +182,15 @@
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"PHYS48B", "Sel. Top. Wavelets", ""
-"PHYS494", "Sp. Tp.  Applied Fourier Analysis", ""
 "PHYS311", "Modern Physics I", ""
-"PHYS312","Modern Physics II",""
-"PHYS325","Math. Meth.of Phys.I",""
-"PHYS411","Quantum Mech. I",""
-"PHYS412","Quantum Mechanics II",""
-"PHYS497","",""
-"","PLUS","Any quantum computation elective."
+"PHYS312", "Modern Physics II", ""
+"PHYS325", "Mathematical Methods of Physics I", ""
+"PHYS411", "Quantum Mechanics I", ""
+"PHYS412", "Quantum Mechanics II", ""
+"PHYS48B", "Wavelets", ""
+"PHYS494", "Applied Fourier Analysis", ""
+"PHYS497", "Information and Entropy",""
+"", "PLUS", "Any quantum computation elective"
 :::
 
 {#PSY}
@@ -245,13 +222,21 @@
 "SOC490", "Introduction to Digital Humanities", "May 5, 2022"
 :::
 
-{#management}
+{#STS}
+### STS - Physics
+
+:::{csv-table}
+:width: 100%
+:widths: 10 40 50
+:header-rows: 1
+
+"Code", "Course Title", "Notes"
+"STS205", "The Climate", "June 23, 2020"
+:::
+
 ## Management Pool
 
 Students can take at most one of the following non-technical courses from AD, EC, or ENG as a complementary course.
-
-{#AD}
-### AD, EC, and others 
 
 :::{csv-table}
 :width: 100%
@@ -264,17 +249,16 @@ Students can take at most one of the following non-technical courses from AD, EC
 "AD432", "Entrepreneurship", ""
 "AD440", "Digital Marketing", ""
 "AD452", "Information Systems Management", ""
-"AD462", "Legal Aspects of Intellectual Property (IP) Management", ""
-"AD482", "Special Topics in Information Systems", ""
-"AD49B", "Sp.Tp.Finance-Fintech", "November 6, 2024"
+"AD462", "Legal Aspects of Intellectual Property Management", ""
+"AD482", "Information Systems", ""
+"AD49B", "Finance-Fintech", "November 6, 2024"
 "AD574", "Management Information and Control Systems", ""
 "EC203", "Microeconomics I", ""
 "EC205", "Macroeconomics I", ""
 "EC206", "Microeconomics II", ""
 "EC331", "Econometrics", "October 1, 2021"
-"EE484", "Sp. Tp. Management for Engineers", ""
+"EE484", "Management for Engineers", ""
 "ENG493", "Technology Entrepreneurship", ""
-
 :::
 
 
