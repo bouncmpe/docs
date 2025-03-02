@@ -1,17 +1,15 @@
 # MS Program in CMPE
 
----
-
 ## Application
 
-The most actual information about the application process, such as required documents and certificates, quotas, and important deadlines, are announced regularly on the page linked above. The candidates are advised to study this information carefully and identify specific requirements for their individual cases, as there may be variations in required documents depending on the specific status. Applicants should compare to the previous application period, and plan well ahead to obtain mandatory certificates (such as GRE, TOEFL, UYS, YDS for PhD) on time. Remember that many certificates require registering many weeks before taking an exam and report results with some delay.
+The most actual information about the application process, such as required documents and certificates, quotas, and important deadlines, are announced regularly on the page linked below. The candidates are advised to study this information carefully and identify specific requirements for their individual cases, as there may be variations in required documents depending on the specific status. Applicants should compare to the previous application period, and plan well ahead to obtain mandatory certificates (such as GRE, TOEFL, UYS, YDS for PhD) on time. Remember that many certificates require registering many weeks before taking an exam and report results with some delay.
 
 :::{card} Apply to Graduate Programs at Boğaziçi University
 :link: http://adaylar.boun.edu.tr/en-EN/Page/Admissions/Graduate/All
 
-Applications to the Graduate Studies (MS or PhD degree) at Boğaziçi University are processed electronically and there is no other channel of application. All prospective candidates should apply through this system.
+Graduate applications for MS and PhD programs at Boğaziçi University are processed exclusively online. All prospective candidates must apply through the official application system.
 
-Click here to start your application.
+**Click here to start your application.**
 :::
 
 Some useful notes for the applicants:
