@@ -1,14 +1,23 @@
-{#msc_top}
-
-# M.Sc. Program in CMPE
+# MS Program in CMPE
 
 ---
 
 ## Application
 
-- Applications to the Graduate Studies (MSc. or PhD degree) in Boğaziçi University are processed electronically and there is no other channel of application. All prospective candidates should apply through the following link: <http://adaylar.boun.edu.tr/en-EN/Page/Admissions/Graduate/All>
-- The most actual information about the application process, such as required documents and certificates, quotas, and important deadlines, are announced regularly on the page linked above. The candidates are advised to study this information carefully and identify specific requirements for their individual cases, as there may be variations in required documents depending on the specific status. Applicants should compare to the previous application period, and plan well ahead to obtain mandatory certificates (such as GRE, TOEFL, UYS, YDS for PhD) on time. Remember that many certificates require registering many weeks before taking an exam and report results with some delay.
-- The education is exclusively in English and the applicants are expected to possess a high level of English speaking and writing skills. In only extraordinary circumstances, the program may admit candidates to the English preparatory class. The candidates should check the Prep Class box during on-line application and take the DBS (English Language Level Test) so as to get considered as an English prep student by the CMPE Department.
+The most actual information about the application process, such as required documents and certificates, quotas, and important deadlines, are announced regularly on the page linked above. The candidates are advised to study this information carefully and identify specific requirements for their individual cases, as there may be variations in required documents depending on the specific status. Applicants should compare to the previous application period, and plan well ahead to obtain mandatory certificates (such as GRE, TOEFL, UYS, YDS for PhD) on time. Remember that many certificates require registering many weeks before taking an exam and report results with some delay.
+
+:::{card} Apply to Graduate Programs at Boğaziçi University
+:link: http://adaylar.boun.edu.tr/en-EN/Page/Admissions/Graduate/All
+
+Applications to the Graduate Studies (MS or PhD degree) at Boğaziçi University are processed electronically and there is no other channel of application. All prospective candidates should apply through this system.
+
+Click here to start your application.
+:::
+
+Some useful notes for the applicants:
+
+ - The education is exclusively in English and the applicants are expected to possess a high level of English speaking and writing skills. In only extraordinary circumstances, the program may admit candidates to the English preparatory class. The candidates should check the Prep Class box during on-line application and take the DBS (English Language Level Test) so as to get considered as an English prep student by the CMPE Department.
+
 - Boğaziçi University uses a grading system similar to the US grading system (AA, BA, BB, .., DD), corresponding to (4, 3.5, 3, .., 1 ), and 'F' for failing. The following link will be helpful in translating the GPA, especially for candidates applying from a foreign university:
   - <http://www.wes.org/gradeconversionguide/index.asp>
   - <http://www.foreigncredits.com/resources/grade-conversion/>
@@ -62,7 +71,8 @@
 
 ## Courses: Scientific Prep
 
-- **SEMESTER TYPE on OBIKAS:** {bdg-danger}`REMEDIAL`
+**SEMESTER TYPE on OBIKAS:** {bdg-danger}`REMEDIAL`
+
 - A student may be asked to take the below courses before starting the Main Program:
   - CMPE220 : Discrete Computational Structures (equivalent: Discrete Math)
   - CMPE250 : Data Structures
@@ -79,19 +89,20 @@
 
 ## Courses: Main Program
 
-- **SEMESTER TYPE on OBIKAS:** {bdg-danger}`NORMAL`
+**SEMESTER TYPE on OBIKAS:** {bdg-danger}`NORMAL`
+
 - Seven technical elective courses + CMPE579 (M.Sc. Seminar). At most one technical course can be of guided-research type.
 - Technical courses have to be in alignment with the chosen research area. The advisor may ask the student to take as many non-credit courses as necessary. Note that non-credit courses do not count in the GPA, but must be repeated if failed. The student cannot proceed to the qualification exam stage until all non-credit courses are passed. If the advisor approves, certain non-credit 5XX courses that are otherwise offered for credit can be converted to a course with credits until the end of the add-drop period of the following semester.
 - Students have to complete 21 credits and 60ECTS from the courses. At least four technical courses have to be CMPE5XX or CMPE6XX. The remaining load can be filled from all programs provided that the course is related with the thesis work, the advisor approves and the following conditions hold:
   - At most two 4xx courses.
   - 5XX and 6XX courses from all departments of Boğaziçi University or exchange universities.
   - At most two courses from another university. In this case, students have to directly apply to the Institute of Science and Engineering for an approval. Note that BÜ does not allow a course to be taken from another university if it is offered in BÜ. Grade is transferred as P or F but ECTS is transferred as it is.
-- "CMPE599: Guided Research in MSc - I" is a 4-credit course in which the student can start research for the domain of the MSc thesis. The student has to register to the related section of his/her supervisor. This course is usually taken in the first or second semester. The supervisor may ask the student to take at most four additional non-credit guided research courses, CMPE69A, 69B, 69C and 69D depending on the breadth of the thesis topic. The supervisor may also approve the student taking a guided research course from another department provided that it is registered as a non-credit course.
+- "CMPE599: Guided Research in MS - I" is a 4-credit course in which the student can start research for the domain of the MS thesis. The student has to register to the related section of his/her supervisor. This course is usually taken in the first or second semester. The supervisor may ask the student to take at most four additional non-credit guided research courses, CMPE69A, 69B, 69C and 69D depending on the breadth of the thesis topic. The supervisor may also approve the student taking a guided research course from another department provided that it is registered as a non-credit course.
 - The student is expected to complete 9 credits in the first semester, 15 credits at the end of the second semester and 21 credits (i.e., all course work) at the end of the third semester. Maximum course load per semester is five.
 - Courses with F/CC/CB grades can be repeated with another course.
 - Courses and seminar have to be completed in four semesters with a GPA higher than 3.00 to continue to the program
 
-```{caution}
+```{attention}
 * Registration to MS THESIS is essential starting from the second semester. However, term type should be NORMAL until all courses finish. Please check MS Thesis for details.
 ```
 
@@ -99,11 +110,11 @@
 
 ## MS Thesis
 
-- **SEMESTER TYPE on OBIKAS:** {bdg-danger}`THESIS`
+**SEMESTER TYPE on OBIKAS:** {bdg-danger}`THESIS`
 
 ### Thesis Proposal
 
-- Starting from the second semester, the student has to register to his/her supervisor's section of CMPE690: MSC THESIS.
+- Starting from the second semester, the student has to register to his/her supervisor's section of CMPE690: M.S. THESIS.
 - The student prepares a thesis proposal under the guidance of the Thesis Supervisor who circulates it in the Department Board. Once the thesis proposal is accepted, the student starts the M.Sc. Thesis. The proposal has to be reported to the Institute.
 - There can also be a Co-supervisor who can be a PhD holder.
 
