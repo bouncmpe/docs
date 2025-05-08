@@ -1,4 +1,4 @@
-# Content Creation for the Website
+# Story Creation for the Website
 
 To create an story that will be shown on our site you should follow these steps:
 

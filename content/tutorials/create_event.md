@@ -1,4 +1,4 @@
-# Content Creation for the Website
+# Event Creation for the Website
 
 To create an event that will be shown on our site you should follow these steps:
 
