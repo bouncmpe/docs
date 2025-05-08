@@ -28,6 +28,6 @@ To create an story that will be shown on our site you should follow these steps:
 
 9. If you have write access to the GitHub repository of the website, you can set the status for your story to "ready" and publish. If you do not, you can wait for someone with authorization to review your work and publish it. You can track the status of your story on the same "Workflows" page.
 
-10. On the event creation or editing page, you will also see a button labeled "Delete published entry" at the top. This button allows you to delete the current entry from the workflow. If the entry is still a draft or unpublished, the button will appear as "Delete unpublished entry" instead. Be careful when using this button, as deletion will remove the entry permanently from the system.
+10. On the story creation or editing page, you will also see a button labeled "Delete published entry" at the top. This button allows you to delete the current entry from the workflow. If the entry is still a draft or unpublished, the button will appear as "Delete unpublished entry" instead. Be careful when using this button, as deletion will remove the entry permanently from the system.
 
 To help you, you can check the other stories in "Story" category by choosing the relevant category from the "Collections" menu and clicking one of the titles listed. Also, you can check and use uploaded media through the "Media" section that is accessible from the upper menu on the main page.
