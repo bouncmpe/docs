@@ -20,8 +20,6 @@ To create an event that will be shown on our site you should follow these steps:
 
 6. On the new page, you can set the title, description, publish date, and body text in markdown style or rich text format.
 
-![Event page](event_page.png)
-
 7. On the right, you can see a second content creation menu. Since our site supports both English and Turkish languages, in this second part you can write the Turkish translations of your event information. Through language selection on the website, you can select between two languages to see the difference.
 
 8. After you fill in all necessary parts for your event, you can save your event as a draft and view it on the workflows page. You can reach the workflows page by going back to the previous page and choosing the relevant section from the upper menu.
