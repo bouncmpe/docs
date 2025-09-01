@@ -89,11 +89,6 @@
 1.  HSS dersleri (Humanities and Social Sciences - Sosyal Seçmeli), öğrencilerin Bilgisayar Mühendisliği’nin teknik konularının yanı sıra sosyal konularla da temas kurmalarına yönelik olan sosyal içerikli derslerdir.
 2.  Alınabilecek HSS derslerini bu listeden seçebilirsiniz.
 
-{#external}
-## Başka Bölümlerden Ders Alma
-
-1.  Uygulamalı Bilimler Yüksekokulu'nca verilen dersler kredili olarak alınamaz.
-
 {#graduation}
 ## Mezuniyet
 
