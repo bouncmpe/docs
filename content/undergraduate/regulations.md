@@ -2,7 +2,7 @@
 # Lisans Programı Kural ve Düzenlemeleri
 
 {#general}
-## Genel Kurallar
+## Genel Kurallar:
 
 1. **Öğrenci ders programını hazırlarken, ders saatleri arasında çakışma olmamasına dikkat etmelidir.** Gerekli hallerde, öğrenimini etkilemeyecek şekilde az sayıda çakışmaya izin verilebilir. Bu durumda, öğrenci ders programını danışmanın onayına gönderirken gerekli açıklamayı da yapmalıdır. İçinde çakışmaların olduğu bir program herhangi bir açıklama olmadan onaya gönderilmemelidir; bu tür bir program reddedilecektir.
 2. **Öğrenci ders programını hazırlarken, bölümün ders programındaki sırayı takip etmelidir.** Örneğin, dördüncü döneme ait bir ders alınmadan, beşinci döneme ait bir ders alınmamalıdır. Geçerli bir mazeret dolayısıyla sıranın bozulması danışmanın onayına bağlıdır. Bu durumda, danışmanla konuşarak onay alınmalıdır.
