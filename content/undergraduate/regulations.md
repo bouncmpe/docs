@@ -32,7 +32,7 @@
 24.  Başka bir Yükseköğretim kurumunda aldıkları derslerle ilgili ders saydırma/değişiklik işlemlerinin tamamlanmasına ilişkin azami süre, öğrencinin programa yerleştirildiği yarıyılı izleyen yarıyılın kayıt dönemi sonuna kadardır.
 
 {#registration}
-## Kaydın Tamamlanması
+## Kaydın Tamamlanması:
 
 1.  Yeni bir döneme kayıt zamanında, ders ekleme/bırakma (add/drop) süresinde veya dersten çekilme (withdrawal) süresinde, ders programı bilgisayar üzerinde hazırlandıktan sonra, mutlaka danışman onayına gönderilmelidir ve danışmandan onay gelmeden kaydın tamamlanmadığı unutulmamalıdır. (Örneğin, öğrenci kaydını onaya gönderdikten sonra kaydın tamamlandığını düşünürse ve bilgisayar üzerinden takip etmezse, danışmanın kaydı reddetmesi ve öğrenciye düzeltmesi için geri göndermesi durumunda, kayıt yarım kalacaktır.) Danışman, ders programında bir takım eksiklikler veya hatalar görebilir ve düzeltilmesi amacıyla programı reddederek öğrenciye geri gönderebilir. Öğrencinin programı düzeltip tekrar danışman onayına göndermesi, danışmanın tekrar inceleyerek onaylaması veya reddetmesi, vs. zaman alabilir. Bu nedenle, kayıtların son gününe kalmadan ders programının tamamlanarak danışman onayına gönderilmesi tavsiye edilir. Aksi halde, kayıt tarihi geçtikten sonra program hala onaylanmamışsa, öğrenci geç kayda kalacaktır ve fazladan kayıt parası yatırması gerekecektir.
 2.  Öğrencinin kaydıyla ilgili bir konuda danışmanın onayına ek olarak Bölüm Kurulu'nun veya Yönetim Kurulu’nun da onayı gerekiyorsa, öğrenci dilekçe ile isteğini belirtmelidir.
