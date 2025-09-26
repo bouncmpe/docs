@@ -61,6 +61,7 @@ The PR will:
 - Contain the generated Markdown content in the correct folder.
 - Be labeled **auto-generated**.
 
+> **Real example:** See [Issue #145](https://github.com/bouncmpe/bouncmpe.github.io/issues/145) and the generated [PR #146](https://github.com/bouncmpe/bouncmpe.github.io/pull/146) for the full flow.
 
 ![List of open automated PRs](../_static/tutorials/issue-automation/new_automated_pr.png)
 
@@ -70,11 +71,14 @@ To inspect the generated content, open the **Files changed** tab in the PR and r
 
 ![Diff view showing generated Markdown](../_static/tutorials/issue-automation/generated_md.png)
 
-Afterwards, a separate workflow will deploy the site. When the deployment completes, follow the preview URL in the PR checks and confirm everything looks correct.
+Afterwards, a separate workflow will deploy the site. When the deployment completes, follow the preview URL in the PR checks and confirm everything looks correct on the deployed site.
 
 ![Deployment success status with preview link](../_static/tutorials/issue-automation/deploy_success.png)
 
-<!--insert website screnshot -->
+
+After the PR is approved and merged, the event will appear on the live site.
+<!--insert website screenshot-->
+
 
 ## Policy for Corrections
 
