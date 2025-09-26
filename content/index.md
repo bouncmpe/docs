@@ -26,7 +26,7 @@ undergraduate/cc
 :hidden:
 :maxdepth: 2
 :caption: Tutorials
-tutorials/index
+tutorials/automated_events
 ```
 
 - [Ph.D. Program Documentation](phd/index.md)
