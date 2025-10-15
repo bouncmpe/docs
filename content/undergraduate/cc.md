@@ -11,7 +11,11 @@
 
 "Code",  "Course Title", "Notes"
 "CMPE4XX", "All courses with the code CMPE4XX", ""
+"CMPE5XX", "All courses with the code CMPE5XX", ""
+
 "", "EXCEPT", "CMPE443, CMPE451, and CMPE492 are not eligible."
+"", "EXCEPT", "Students without senior status or a minimum GPA of 2.40 cannot enroll in CMPE5XX courses."
+
 :::
 
 {#other-departments}
@@ -260,6 +264,7 @@ Students can take at most one of the following non-technical courses from AD, EC
 "EE484", "Management for Engineers", ""
 "ENG493", "Technology Entrepreneurship", ""
 :::
+
 
 
 
