@@ -4,7 +4,7 @@
 
 {#science-pool}
 
-## Science Pool (for CMPE students)
+## Science Pool
 
 Science electives must be selected from the lists below.
 
