@@ -8,7 +8,7 @@
 
 Science electives must be selected from the lists below.
 
-{#bio}
+{#sci_bio}
 
 ### BIO - Molecular Biology and Genetics
 
@@ -18,11 +18,11 @@ Science electives must be selected from the lists below.
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"BIOXXX", "All 3 or 4 credits non-laboratory BIOXXX courses", ""
+"BIOXXX", "All courses with the code BIOXXX", "Only non-laboratory courses with 3 or 4 credits are eligible."
 "", "EXCEPT", "BIO491 and BIO492 are not eligible."
 :::
 
-{#chem}
+{#sci_chem}
 
 ### CHEM - Chemistry
 
@@ -32,11 +32,11 @@ Science electives must be selected from the lists below.
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"CHEMXXX", "All 3 or 4 credits non-laboratory CHEMXXX courses", ""
-"", "EXCEPT", "CHEM161, CHEM473, CHEM474, CHEM475, CHEM476 are not eligible."
+"CHEMXXX", "All courses with the code CHEMXXX", "Only non-laboratory courses with 3 or 4 credits are eligible."
+"", "EXCEPT", "CHEM161, CHEM473, CHEM474, CHEM475, and CHEM476 are not eligible."
 :::
 
-{#math}
+{#sci_math}
 
 ### MATH - Mathematics
 
@@ -46,11 +46,11 @@ Science electives must be selected from the lists below.
 :header-rows: 1
 
 "Code", "Course Title", "Notes"
-"MATHXXX", "All 3 or 4 credits MATHXXX courses", ""
-"", "EXCEPT", "MATH162, MATH401, MATH490 are not eligible."
+"MATHXXX", "All courses with the code MATHXXX", "Only courses with 3 or 4 credits are eligible."
+"", "EXCEPT", "MATH162, MATH401, and MATH490 are not eligible."
 :::
 
-{#phys}
+{#sci_phys}
 
 ### PHYS - Physics
 
