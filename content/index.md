@@ -19,7 +19,8 @@ ms/index
 :maxdepth: 2
 :caption: Undergraduate Studies
 undergraduate/regulations
-undergraduate/cc
+undergraduate/cc-electives
+undergraduate/science-electives
 ```
 
 ```{toctree}
@@ -52,6 +53,7 @@ tutorials/index
 
 - [Undergraduate Program Documentation]()
     - [Rules and Regulations](undergraduate/regulations)
-    - [List of Complementary Courses](undergraduate/cc)
+    - [List of Complementary Courses](undergraduate/cc-electives)
+    - [List of Science Elective Courses](undergraduate/science-electives)
 
 
