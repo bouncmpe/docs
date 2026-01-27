@@ -101,5 +101,5 @@ html_theme_options = {
     "source_repository": "https://github.com/bouncmpe/docs/",
     "source_branch": "main",
     "source_directory": "content",
-    "announcement": "This site is <em>under construction.</em>",
+    "announcement": "List of Science Elective courses added for the new curriculum!",
 }

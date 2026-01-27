@@ -23,12 +23,12 @@ undergraduate/cc-electives
 undergraduate/science-electives
 ```
 
-```{toctree}
+<!-- ```{toctree}
 :hidden:
 :maxdepth: 2
 :caption: Tutorials
 tutorials/index
-```
+``` -->
 
 - [Ph.D. Program Documentation](phd/index.md)
     - [Application](phd/index.md/#application)
