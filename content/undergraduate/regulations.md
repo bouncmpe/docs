@@ -1,7 +1,7 @@
 {#regulations_top}
 # Lisans Programı Kural ve Düzenlemeleri
 
-(Son güncelleme: Eylül 2025)
+(Son güncelleme: Ocak 2026)
 
 {#general}
 ## Genel Kurallar
