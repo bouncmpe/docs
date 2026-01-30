@@ -47,7 +47,7 @@ Science electives must be selected from the lists below.
 
 "Code", "Course Title", "Notes"
 "MATHXXX", "All courses with the code MATHXXX", "Only courses with 3 or 4 credits are eligible."
-"", "EXCEPT", "MATH106, "MATH162, MATH401, and MATH490 are not eligible."
+"", "EXCEPT", "MATH106, MATH162, MATH401, and MATH490 are not eligible."
 :::
 
 {#sci_phys}
