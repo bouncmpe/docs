@@ -33,7 +33,7 @@ Science electives must be selected from the lists below.
 
 "Code", "Course Title", "Notes"
 "CHEMXXX", "All courses with the code CHEMXXX", "Only non-laboratory courses with 3 or 4 credits are eligible."
-"", "EXCEPT", "CHEM161, CHEM473, CHEM474, CHEM475, and CHEM476 are not eligible."
+"", "EXCEPT", "CHEM101, CHEM161, CHEM473, CHEM474, CHEM475, and CHEM476 are not eligible."
 :::
 
 {#sci_math}
