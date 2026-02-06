@@ -65,7 +65,7 @@
 ## Başarısız Öğrenciler
 
 1.  Başarısız (repeating) statüsünde olan öğrenciler, ortalama dönem kredisinden fazla kredi alamazlar. F tekrarının yanı sıra, ortalama dönem kredisini aşmayacak şekilde DD ve DC derslerini tekrarlayabilirler ve/veya en çok iki yeni ders alabilirler. Yaz döneminde ise, F, DD ve DC tekrarının yanı sıra, toplam 10 krediyi veya 3 dersi aşmayacak şekilde en çok iki yeni ders alabilirler.
-2.  Toplam mezuniyet kredisinin 3/4'ünü tamamlamış veya yasal azami süresinin son iki döneminde olan başarısız statüdeki öğrenciler, 1. maddede belirtilen sınırlamaya tabi değildir. Bu öğrenciler, ortalama dönem kredisini (yaz dönemi ise, 10 krediyi) aşabilirler veya ikiden fazla yeni ders alabilirler.
+2.  Son sınıf statüsünde olan başarısız öğrencilere en çok iki yeni ders alma kuralı uygulanmaz, fakat ortalama dönem kredisini aşamazlar.
 3.  Başarısız statüde iken başka bir üniversiteden özel öğrenci statüsü ile alınmış olan dersler, kredili olarak sayılamaz.
 
 {#students-on-probation}
