@@ -71,7 +71,7 @@
 {#students-on-probation}
 ## Sınamalı Öğrenciler
 
-1.  Sınamalı statüde olan öğrenciler fazla ders alamazlar.
+1.  Sınamalı statüsünde olan öğrenciler, danışman onayı ile ortalama dönem kredisi üzerine en fazla bir kredi alabilir.
 2.  Toplam mezuniyet kredisinin 3/4'ünü tamamlamış veya yasal azami süresinin son iki döneminde olan sınamalı statüdeki öğrenciler, 1. maddede belirtilen sınırlamaya tabi değildir. Bu öğrenciler fazla ders alabilirler.
 
 {#cc}
