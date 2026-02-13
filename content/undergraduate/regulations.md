@@ -1,7 +1,7 @@
 {#regulations_top}
 # Lisans Programı Kural ve Düzenlemeleri
 
-(Son güncelleme: Ocak 2026)
+(Son güncelleme: Şubat 2026)
 
 {#general}
 ## Genel Kurallar
@@ -12,21 +12,21 @@
 4.  İlk iki döneminde bulunan öğrenciler paket program alırlar; diğer bir deyişle, bulundukları dönemin bütün derslerini ilk açıldıklarında almak zorundadırlar (6. maddedeki istisna dışında).
 5.  Öğrenci hangi dönemde olursa olsun, ilk iki dönemin zorunlu derslerini bırakamaz (add/drop) veya bu derslerden çekilemez (withdrawal) (6. maddedeki istisna dışında). Zorunlu olmayan dersleri (örneğin, kredisiz olarak alınan bir ders) ise bırakabilir veya bu derslerden çekilebilir.
 6.  Eğitimlerine akademik yılın ikinci döneminde (bahar dönemi) başlayan ve ilk dönemlerini GNO>=2.75 ile tamamlayan ikinci dönem öğrencileri, paket programlarındaki bir ders yerine başka bir gerekli dersi danışman onayı ile alabilirler. Söz konusu olan yerleri değiştirilecek dersler EC ve HSS ise, GNO>=2.75 şartı aranmaz. Yer değiştirme, paket programdaki sadece bir ders için yapılabilir.
-7. **Cmpe150-Cmpe160-Cmpe250 dersleri için, ders sırası bozularak DD ve DC ders tekrarı yapılamaz.** Diğer bir deyişle, öğrenci Cmpe160 dersini geçmişse Cmpe150 dersini tekrarlayamaz; Cmpe250 dersini geçmişse Cmpe150 ve Cmpe160 derslerini tekrarlayamaz. (Bu madde başarısız statüsünde olan ogrencilere uygulanmaz.)
+7. **Cmpe101-Cmpe160-Cmpe250 dersleri için, ders sırası bozularak DD ve DC ders tekrarı yapılamaz.** Diğer bir deyişle, öğrenci Cmpe160 dersini geçmişse Cmpe101 dersini tekrarlayamaz; Cmpe250 dersini geçmişse Cmpe101 ve Cmpe160 derslerini tekrarlayamaz. (Bu madde başarısız statüsünde olan öğrencilere uygulanmaz.)
 8. **F notu alınan bir ders, ilk açıldığında tekrarlanmak zorundadır.** Öğrencinin geçerli bir mazereti dolayısıyla dersi ilk açıldığında tekrarlamaması Yönetim Kurulu'nun onayına bağlıdır.
 9. **Öğrenci F aldığı için tekrarladığı bir dersten çekilemez.** Öğrencinin geçerli bir mazereti dolayısıyla dersten çekilmesi Yönetim Kurulu'nun onayına bağlıdır.
-10.  Seçmeli bir dersten (HSS veya CC) F alındığında, ayni ders tekrarlanabilir veya bu dersin yerine aynı seçmeli grubuna giren başka bir ders R (tekrar) işareti ile alınabilir.
+10.  Seçmeli bir dersten (HSS, CC, XSCI, XSPX, CMPE) F alındığında, aynı ders tekrarlanabilir veya bu dersin yerine aynı seçmeli grubuna giren başka bir ders R (tekrar) işareti ile alınabilir.
 11. **Öğrenci DD ve DC aldığı derslerin öğrenim süresi boyunca en çok altı tanesini bir defaya mahsus olmak üzere tekrarlayabilir.** Bir dönemde en çok bir tane DD ve DC dersi tekrarlanabilir. Bu tür bir ders, dersin alınışından sonraki dört dönem içinde tekrarlanmalıdır.
 12. **F, DD veya DC dolayısıyla tekrarlanan bir derste, alınan son not geçerlidir.** Önceki not geçerliliğini yitirir, fakat transkriptte gözükür.
 13.  Öğrenci E notu aldığı bir dersin E sınavına girer. Dersin harf notu, sınavda başarılı olursa DD, başarısız olursa F olur. E sınavında başarılı olan öğrencilere DD’den yüksek not verilemez.
 14.  Lisans öğrencileri 5XX kodlu dersleri sadece son sınıf statüsünde ve GNO>=2.40 ise alabilir.
 15.  Lisans öğrencileri 6XX kodlu dersleri kesinlikle alamazlar.
-16.  Bölüm programındaki zorunlu dersler, öğrenci değişim programı (Exchange) kapsamı haricinde, ilk alınışlarında Boğaziçi Üniversitesi dışından alınamaz.
+16.  Bölüm programındaki zorunlu dersler, öğrenci değişim programı (Exchange/Erasmus) kapsamı haricinde, Boğaziçi Üniversitesi dışından alınamaz.
 17.  Bir dersin harf notunda yanlışlık olması durumunda, not düzeltmesi en geç izleyen dönemin kayıt süresinin başlama tarihinden en geç bir hafta öncesine kadar yapılabilir (örneğin, 2023-2024 2. dönemindeki bir derste verilen bir not, ancak 2024-2025 1. dönemin kaydının ilk gününden bir hafta öncesine kadar (yaklaşık, Eylül 2024 başı) değiştirilebilir). Bu durumda, ilgili öğretim elemanı not değişikliğini Mühendislik Fakültesi Dekanlığına bir dilekçe ile bildirir.
 18.  Yaz döneminde en fazla 10 kredilik ders veya 3 ders (örneğin, 4 kredilik 3 ders) alınabilir.
 19.  Yaz dönemi sonunda mezuniyete hak kazanacak öğrencilere 4. ders olarak FYK kararı ile TK / HTR dersi verilebilir.
 20.  Öğrenci lisans öğrenimi süresince, yaz dönemlerinde en fazla iki ve normal dönemlerde en fazla üç olmak üzere en fazla beş defa dersten çekilebilir.
-21.  Son sınıf öğrencileri, HSS ve CC derslerinin dışında 1xx kodlu dersleri alamazlar.
+21.  Son sınıf öğrencileri, HSS, CC, XSCI ve XSPX seçmeli derslerinin dışında 1xx kodlu dersleri alamazlar.
 22.  Mühendislik Fakültesi bölümlerince verilen 1 kredilik Lab derslerinden ikisi aynı anda alınırsa, bir bölüm dersi yükünde kabul edilir.
 23.  Programında alması gereken tüm dersleri tamamlayan ve sadece staj eksiği kalan öğrencilerin kayıt zamanında (ders ekleme/bırakma süresi sonuna kadar) Fakülte Yönetim Kuruluna staj kayıtlarının açılması için dilekçe (BUIS, e-petition) vererek kayıt yaptırmaları ve yasal öğrencilik sürelerini tamamlayan öğrencilerin harçlarını yatırmaları gerekmektedir.
 24.  Başka bir Yükseköğretim kurumunda aldıkları derslerle ilgili ders saydırma/değişiklik işlemlerinin tamamlanmasına ilişkin azami süre, öğrencinin programa yerleştirildiği yarıyılı izleyen yarıyılın kayıt dönemi sonuna kadardır.
@@ -78,9 +78,9 @@
 ## CC Dersleri
 
 1.  CC dersleri (Complementary Elective - Tamamlayıcı Seçmeli), Bilgisayar Mühendisliği konularına doğrudan dahil olmayan, fakat Bilgisayar Mühendisliği disiplininin çeşitli konularıyla ilgili olan tamamlayıcı teknik derslerdir.
-2.  Alınabilecek CC dersleri, bölüm içi CC dersleri ve bölüm dışı CC derslerinden oluşur. Bölüm içi CC dersleri, ders programındaki CmpE4xx kodlu derslerdir (CmpE443, CmpE451, CmpE492 hariç). Bölüm dışı CC dersleri listesine [CC Dersleri](https://cmpe.bogazici.edu.tr/docs/undergraduate/cc/) sayfasından ulaşılabilinir.
-3.  Öğrenci CC dersi olarak 2. maddede belirtilen derslerden birini almalıdır. Bölüm dışı bir CC dersi almak istediğinde, bölüm dışı CC dersleri listesinde olmayan fakat CC dersi niteliğini taşıdığını düşündüğü bir dersi almak isterse, danışmanıyla görüşmelidir. Danışman da dersin CC dersi olabileceği kanısına varırsa, e-posta yoluyla HSS/CC Komisyonu’na soracaktır. Bu komisyondan olumlu görüş çıkması durumunda, sonuç öğrenciye bildirilerek dersi kaydına eklemesi sağlanacak ve ders CC dersleri listesine eklenecektir.
-4.  Dördüncü sınıfta alınması gereken altı tane CC dersinden en az üç tanesi CmpE dersi olmalıdır (yani, en fazla üç tanesi CmpE bölümü dışındaki dersler olabilir). CmpE ders sayısı için bir üst sınır yoktur; istenirse altısı da CmpE dersi olabilir, bölüm dışından ders alınmayabilir. CC Dersleri listesinde belirtilen derslerin kısıtlamalarına uyulmalıdır (örneğin, AD, ENG, ENG kodlu derslerden toplam en fazla bir tane alınabilir).
+2.  Alınabilecek CC dersleri, bölüm içi CC dersleri ve bölüm dışı CC derslerinden oluşur. Bölüm içi CC dersleri, ders programındaki CmpE4xx (CmpE492 hariç) ve CmpE5xx kodlu derslerdir. Bölüm dışı CC dersleri listesine [CC Dersleri](https://cmpe.bogazici.edu.tr/docs/undergraduate/cc-electives/) sayfasından ulaşılabilinir.
+3.  Öğrenci CC dersi olarak 2. maddede belirtilen derslerden birini almalıdır. Bölüm dışı bir CC dersi almak istediğinde, bölüm dışı CC dersleri listesinde olmayan fakat CC dersi niteliğini taşıdığını düşündüğü bir dersi almak isterse, danışmanıyla görüşmelidir. Danışman da dersin CC dersi olabileceği kanısına varırsa, e-posta yoluyla bölüm Seçmeli Dersler Komisyonu’na soracaktır. Bu komisyondan olumlu görüş çıkması durumunda, sonuç öğrenciye bildirilerek dersi kaydına eklemesi sağlanacak ve ders CC dersleri listesine eklenecektir.
+4.  CC Dersleri listesinde belirtilen derslerin kısıtlamalarına uyulmalıdır (örneğin, AD, EC, ENG kodlu derslerden toplam en fazla bir tane alınabilir).
 5.  Öğrenci iki dönem proje yapmak üzere bir CC dersi yerine Cmpe491 dersi alabilir. Cmpe491 dersini sadece GNO>=2.00 olanlar alabilir. GNO<2.00 olan öğrencilerin Cmpe491 dersini alması Bölüm Kurulu'nun onayına bağlıdır.
 6.  5xx kodlu dersleri sadece son sınıf olan ve GNO>=2.40 olan öğrenciler alabilir.
 
@@ -89,6 +89,24 @@
 
 1.  HSS dersleri (Humanities and Social Sciences - Sosyal Seçmeli), öğrencilerin Bilgisayar Mühendisliği’nin teknik konularının yanı sıra sosyal konularla da temas kurmalarına yönelik olan sosyal içerikli derslerdir.
 2.  Alınabilecek HSS derslerinin listesi üniversite sayfasında bulunmaktadır.
+
+{#cmpe}
+## CMPE (Departmental Elective) Dersleri
+
+1.	CMPE dersleri (Departmental Elective - Bölüm Seçmeli), derslerdir.
+2.	Alınabilecek CMPE dersleri, ders programındaki CmpE4xx (CmpE492 hariç) ve CmpE5xx kodlu derslerdir. CmpE5xx kodlu dersleri sadece son sınıf olan ve GNO>=2.40 olan öğrenciler alabilir.
+
+{#xsci}
+## XSCI (Science Elective) Dersleri
+
+1.	XSCI dersleri (Science Elective – Bilim Seçmeli), derslerdir.
+2.	Alınabilecek XSCI dersleri listesine [XSCI Dersleri](https://cmpe.bogazici.edu.tr/docs/undergraduate/science-electives/) sayfasından ulaşılabilinir.
+
+{#xspx}
+## XSPX (Specified Elective) Dersleri
+
+1.	XSPX dersleri (Specified Elective – Seçmeli), derslerdir.
+2.	XSPC dersleri, CC, HSS veya XSCI ders listelerinden seçilebilir.
 
 {#graduation}
 ## Mezuniyet
