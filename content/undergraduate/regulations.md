@@ -93,19 +93,19 @@
 {#cmpe}
 ## CMPE (Departmental Elective) Dersleri
 
-1.	CMPE dersleri (Departmental Elective - Bölüm Seçmeli), derslerdir.
+1.	CMPE dersleri (Departmental Elective - Bölüm Seçmeli), Bilgisayar Mühendisliği bölümünün zorunlu derslerinin dışındaki seçmeli derslerdir.
 2.	Alınabilecek CMPE dersleri, ders programındaki CmpE4xx (CmpE492 hariç) ve CmpE5xx kodlu derslerdir. CmpE5xx kodlu dersleri sadece son sınıf olan ve GNO>=2.40 olan öğrenciler alabilir.
 
 {#xsci}
 ## XSCI (Science Elective) Dersleri
 
-1.	XSCI dersleri (Science Elective – Bilim Seçmeli), derslerdir.
+1.	XSCI dersleri (Science Elective – Bilim Seçmeli), öğrencilerin temel bilimsel disiplinlerle etkileşim kurarak modern mühendislik uygulamalarının altında yatan prensipleri daha kapsamlı şekilde anlamalarına yönelik olan derslerdir.
 2.	Alınabilecek XSCI dersleri listesine [XSCI Dersleri](https://cmpe.bogazici.edu.tr/docs/undergraduate/science-electives/) sayfasından ulaşılabilinir.
 
 {#xspx}
 ## XSPX (Specified Elective) Dersleri
 
-1.	XSPX dersleri (Specified Elective – Seçmeli), derslerdir.
+1.	XSPX dersleri (Specified Elective), öğrencilerin akademik gelişimlerini bireysel ilgi alanlarına ve hedeflerine göre şekillendirmelerine olanak sağlayan derslerdir.
 2.	XSPC dersleri, CC, HSS veya XSCI ders listelerinden seçilebilir.
 
 {#graduation}
