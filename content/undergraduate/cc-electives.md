@@ -158,7 +158,7 @@
 "MATH3XX", "All courses with the code MATH3XX", ""
 "MATH4XX", "All courses with the code MATH4XX", ""
 "MATH5XX", "All courses with the code MATH5XX", ""
-"", "EXCEPT", " MATH310, MATH344 and MATH336 are not eligible."
+"", "EXCEPT", " MATH310 and MATH344 are not eligible."
 :::
 
 {#PHIL}
