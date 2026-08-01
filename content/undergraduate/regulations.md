@@ -1,7 +1,7 @@
 {#regulations_top}
 # Lisans Programı Kural ve Düzenlemeleri
 
-(Son güncelleme: Şubat 2026)
+(Son güncelleme: Temmuz 2026)
 
 {#general}
 ## Genel Kurallar
@@ -64,7 +64,7 @@
 {#students-on-repeating-status}
 ## Başarısız Öğrenciler
 
-1.  Başarısız (repeating) statüsünde olan öğrenciler, ortalama dönem kredisinden fazla kredi alamazlar. F tekrarının yanı sıra, ortalama dönem kredisini aşmayacak şekilde DD ve DC derslerini tekrarlayabilirler ve/veya en çok iki yeni ders alabilirler. Yaz döneminde ise, F, DD ve DC tekrarının yanı sıra, toplam 10 krediyi veya 3 dersi aşmayacak şekilde en çok iki yeni ders alabilirler.
+1.  Başarısız (repeating) statüsünde olan öğrenciler, ortalama dönem kredisinden fazla kredi alamazlar. F tekrarının yanı sıra, ortalama dönem kredisini aşmayacak şekilde DD ve DC derslerini tekrarlayabilirler ve/veya en çok iki yeni ders alabilirler. Tekrar edebileceği derslerin toplam kredisi 15'in altında ise, 15 krediyi geçmemek şartıyla Yönetim Kurulu kararıyla ikiden fazla yeni ders alabilir. Yaz döneminde ise, F, DD ve DC tekrarının yanı sıra, toplam 10 krediyi veya 3 dersi aşmayacak şekilde en çok iki yeni ders alabilirler.
 2.  Son sınıf statüsünde olan başarısız öğrencilere en çok iki yeni ders alma kuralı uygulanmaz, fakat ortalama dönem kredisini aşamazlar.
 3.  Başarısız statüde iken başka bir üniversiteden özel öğrenci statüsü ile alınmış olan dersler, kredili olarak sayılamaz.
 
