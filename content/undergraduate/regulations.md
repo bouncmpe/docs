@@ -48,7 +48,7 @@
 4.  2.00<=GNO<2.50 olan öğrencilerin bir fazla ders alması veya GNO>=2.00 olan son sınıf öğrencilerinin mezun olabilmek için iki fazla ders alması Yönetim Kurulu'nun onayına bağlıdır.
 5.  Hangi dönem veya statüde olunursa olunsun, fazla ders sayısı en fazla 2 ders veya ortalama dönem kredisinin 8 fazlası olabilir; kesinlikle bunu aşamaz.
 6.  Üniversite dışından yatay geçiş yapan öğrenciler ilk dönemlerinde fazla ders alamazlar.
-7.  Öğrenci ilk döneminde fazla ders alamaz.
+7.  Öğrenci ilk iki döneminde, kredisiz alınan dersler haricinde fazla ders alamaz.
 8.  İkinci dönem öğrencilerinden bütün derslerini tamamlamış ve GNO>=3.00 olan öğrencilerin bir fazla ders alması danışman onayına ve Yönetim Kurulu'nun onayına bağlıdır.
 
 {#underloading}
