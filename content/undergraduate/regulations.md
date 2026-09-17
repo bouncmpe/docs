@@ -55,7 +55,7 @@
 ## Az Ders Alma
 
 1.  Öğrenci, normal olarak, bulunduğu dönemdeki ders sayısı kadar veya ortalama dönem kredisi kadar ders almalıdır. Bu ders sayısından veya dönem kredisinden daha az ders alınması, az ders kapsamına girer.
-2.  Öğrencinin ders yükünü 15 krediye kadar düşürebilmesi danışmanın onayına bağlıdır. Bu durumda, danışmanla konuşarak az ders alınmak istenmesinin sebebi açıklanmalı ve onay alınmalıdır. Öğrenci çok özel durumlarda danışman onayıyla ders yükünü 13 krediye kadar düşürebilir.
+2.  Öğrencinin ders yükü 15 krediden az olamaz. Öğrencinin ders yükünü 15 krediye kadar düşürebilmesi danışmanın onayına bağlıdır. Bu durumda, danışmanla konuşarak az ders alınmak istenmesinin sebebi açıklanmalı ve onay alınmalıdır. Öğrenci çok özel durumlarda danışman onayıyla ders yükünü 13 krediye kadar düşürebilir.
 3.  Öğrencinin ders yükünü 11 krediye kadar düşürebilmesi Yönetim Kurulu'nun onayına bağlıdır (4. ve 5. maddelerdeki istisnalar dışında). Buna izin verilebilmesi için, önemli bir kişisel hastalık durumunun olması gerekir. Öğrenci çok özel durumlarda Yönetim Kurulu onayıyla ders yükünü 9 krediye kadar düşürebilir.
 4.  Son sınıf statüsünde bulunan öğrenciler için en az kredi yükü (15 kredi) kuralı uygulanmaz. Öğrenci ders yükünü danışman onayı ile 11 krediye kadar, Yönetim Kurulu onayı ile 11 kredinin altına düşürebilir.
 5.  Başarısız durumda olan öğrenciler kısıtlı ders alabileceklerinden dolayı, bu durumda olan öğrenciler ders yükünü danışmanın onayıyla 11 krediye kadar düşürebilirler; Yönetim Kurulu'nun onayı gerekmez. Öğrenci çok özel durumlarda Yönetim Kurulu onayıyla ders yükünü 11 kredinin altına düşürebilir.
