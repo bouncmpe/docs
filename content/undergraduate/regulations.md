@@ -1,7 +1,7 @@
 {#regulations_top}
 # Lisans Programı Kural ve Düzenlemeleri
 
-(Son güncelleme: Temmuz 2026)
+(Son güncelleme: Eylül 2026)
 
 {#general}
 ## Genel Kurallar
@@ -59,7 +59,7 @@
 3.  Öğrencinin ders yükünü 11 krediye kadar düşürebilmesi Yönetim Kurulu'nun onayına bağlıdır (4. ve 5. maddelerdeki istisnalar dışında). Buna izin verilebilmesi için, önemli bir kişisel hastalık durumunun olması gerekir. Öğrenci çok özel durumlarda Yönetim Kurulu onayıyla ders yükünü 9 krediye kadar düşürebilir.
 4.  Son sınıf statüsünde bulunan öğrenciler için en az kredi yükü (15 kredi) kuralı uygulanmaz. Öğrenci ders yükünü danışman onayı ile 11 krediye kadar, Yönetim Kurulu onayı ile 11 kredinin altına düşürebilir.
 5.  Başarısız durumda olan öğrenciler kısıtlı ders alabileceklerinden dolayı, bu durumda olan öğrenciler ders yükünü danışmanın onayıyla 11 krediye kadar düşürebilirler; Yönetim Kurulu'nun onayı gerekmez. Öğrenci çok özel durumlarda Yönetim Kurulu onayıyla ders yükünü 11 kredinin altına düşürebilir.
-6.  Dersten çekilme döneminde, öğrenci danışmanın onayıyla, bir dersten çekilerek ders yükünü 12 krediye (3 kredilik 4 ders şeklinde; TK / HTR dersleri hariç) veya 13 krediye düşürebilir. Son sınıf öğrencileri ve başarısız durumda olan öğrenciler bu kurala tabii değildir; bu öğrencilere 4.ve 5. maddeler uygulanır.
+6.  Dersten çekilme döneminde, öğrenci **danışmanın onayıyla**, bir dersten çekilerek ders yükünü 12 krediye (3 kredilik 4 ders şeklinde; TK / HTR dersleri hariç) veya 13 krediye düşürebilir. Son sınıf öğrencileri ve başarısız durumda olan öğrenciler bu kurala tabii değildir; bu öğrencilere 4.ve 5. maddeler uygulanır.
 
 {#students-on-repeating-status}
 ## Başarısız Öğrenciler
@@ -126,9 +126,9 @@
 ## Çift Ana Dal Programı
 
 1.  GNO>3.00 ve tüm derslerini başarıyla tamamlamış olmak koşuluyla, ÇAP'a girmek isteyen öğrenciler en erken 3. en geç 5. yarıyıl başında Fakülte Yönetim Kuruluna başvurmak zorundadırlar.
-2.  Çift Anadal programının diğer hususları ÇAP yönetmeliğinde belirlenmiştir.
-3.  Çift anadal programı en geç 10 yarıyılda tamamlanmalıdır. Değişim programlarında geçirilen en fazla bir yarıyıl bu süreye sayılmaz.
-4.  İki dönem üst üste çift anadal programı dersi almayan öğrenci çift anadal programına devam hakkını kaybeder.
+2.  Çift anadal programı en geç 10 yarıyılda tamamlanmalıdır. Değişim programlarında geçirilen en fazla bir yarıyıl bu süreye sayılmaz.
+3.  İki dönem üst üste çift anadal programı dersi almayan öğrenci çift anadal programına devam hakkını kaybeder.
+4.  Çift Anadal programının diğer hususları ÇAP yönetmeliğinde belirlenmiştir.
 
 {#minor-degree}
 ## Yandal Programı
